@@ -5,3 +5,15 @@ export const AboutMap = new Map([
     ['@@', 'Location'],
     ['-', 'Bullet Point'],
 ])
+
+export const TranslationsMap = new Map([
+    ['#', 'Chapter Title'],
+    ['-','Line'],
+])
+
+export const ProjectsMap = new Map([
+    ['#', 'Project Title'],
+    ['@', 'Git Repo'],
+    ['[', 'Image'],
+    ['-', 'Description']
+])
