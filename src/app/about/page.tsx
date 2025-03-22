@@ -7,7 +7,7 @@ function ParseAbout({data}) {
     return (
         <>
         {data.map((post, index) => (
-            <div className='Post' key={index}>
+            <div className='Post' key={index}>{index}
             <ParsePost post={post}></ParsePost>
             </div>
         ))}
