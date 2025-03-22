@@ -1,4 +1,4 @@
-import {content_about, content_projects, content_translations} from '@/app/util/parse-content'
+import {content_about, content_projects, content_translations} from '@/app/util/parse-file'
 import {AboutMap} from '@/app/util/map-delimiters'
 
 
@@ -6,13 +6,24 @@ function ParseAbout({data}) {
     console.log("Hit parseAbout)")
     return (
         <>
-        {data.map((item, index) => (
-            <div className={AboutMap.get(item[0])} key={index}>{item[1]}</div>
+        {data.map((post, index) => (
+            <div className='Post' key={index}>
+            <ParsePost post={post}></ParsePost>
+            </div>
         ))}
         </>
     )
 }
 
+function ParsePost({post}) {
+    return (
+        <>
+        {post.map((item,index) => (
+                <div className={AboutMap.get(item[0])} key={index}>{item[1]}</div>
+            ))}
+        </>
+    )
+}
 
 
 export default function About() {

@@ -1,6 +1,16 @@
+{
 # Associate Software Engineer
 ## Capital One
 @ 2/10/2025 - Current
 @@ Richmond, Virginia
 - lorem ipsum lorem, lorem something ipsum, bla
 - Ensured x by acclimating policy y to an atmosphere of 32 degrees celsius to generate over 300 gorillion rupees
+}
+
+{
+# Business Operations Analyst
+## LexisNexis Risk Solutions
+@ 8/15/2022 - 5/31/2024
+@@ Tampa, FL
+- Random point
+}

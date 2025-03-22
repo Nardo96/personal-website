@@ -9,20 +9,34 @@ function ParseFile(filepath: string) {
         const fs = require('fs')
         const data = fs.readFileSync(filepath, 'utf8')
         const lines = data.split("\n")
-        var res = []
+        let results = []
+        let post = []
+        console.log("file opened")
+
         for (const line of lines) {
             var index = 0
+            // The case of a blank, separator new line between posts
+            if (line.length == 0) {
+                continue
+            }
+            if (line[index] == "{" || line[index] == "}") {
+                if (post.length != 0) {
+                    results.push(post)
+                    post = []
+                }
+                continue
+            }
             while (line[index] != " ") {
                 index += 1
             }
             const delim = line.slice(0, index)
             const remain = line.slice(index)
             console.log(line)
-            res.push([delim, remain])
+            post.push([delim, remain])
         }
 
-        console.log(res)
-        return res
+        console.log(results)
+        return results
     } catch (err) {
         console.error(err)
     }
