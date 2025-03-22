@@ -40,6 +40,4 @@ function ParseFile(filepath: string) {
     } catch (err) {
         console.error(err)
     }
-    
 }
-

@@ -1,36 +1,13 @@
-import {content_about, content_projects, content_translations} from '@/app/util/parse-file'
-import {AboutMap} from '@/app/util/map-delimiters'
-
-
-function ParseAbout({data}) {
-    console.log("Hit parseAbout)")
-    return (
-        <>
-        {data.map((post, index) => (
-            <div className='Post' key={index}>{index}
-            <ParsePost post={post}></ParsePost>
-            </div>
-        ))}
-        </>
-    )
-}
-
-function ParsePost({post}) {
-    return (
-        <>
-        {post.map((item,index) => (
-                <div className={AboutMap.get(item[0])} key={index}>{item[1]}</div>
-            ))}
-        </>
-    )
-}
+import {content_about} from '@/app/util/parse-file'
+import PageParse from '@/app/components/page-parse'
 
 
 export default function About() {
+    console.log(content_about)
     return (
         <div>
             <h1>Example file data:</h1>
-            <ParseAbout data={content_about}/>
+            <PageParse data={content_about} mapper="about"/>
         </div>
     )
 }
