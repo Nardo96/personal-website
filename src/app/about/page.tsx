@@ -1,4 +1,4 @@
-import {ParseContent} from '@/app/components/parse-content'
+import {ParseContent} from '@/app/util/parse-content'
 
 
 
