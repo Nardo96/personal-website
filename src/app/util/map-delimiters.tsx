@@ -14,6 +14,6 @@ export const TranslationsMap = new Map([
 export const ProjectsMap = new Map([
     ['#', 'Project Title'],
     ['@', 'Git Repo'],
-    ['[', 'Image'],
+    ['$', 'Image'],
     ['-', 'Description']
 ])

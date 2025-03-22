@@ -1,4 +1,6 @@
+{
 # Project Title
 @ https://github.com/example/repo
-[Image description]('/public/example.png')
+$ Image description '/public/example.png'
 - lorem ipsum lorem, lorem something ipsum, bla. Ensured x by acclimating policy y to an atmosphere of 32 degrees celsius to generate over 300 gorillion rupees
+}

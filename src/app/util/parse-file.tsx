@@ -2,6 +2,10 @@ export const content_about = ParseFile('src/resources/about/example.txt')
 export const content_translations = ParseFile('src/resources/translations/example.txt')
 export const content_projects = ParseFile('src/resources/projects/example.txt')
 
+console.log(content_about)
+console.log(content_translations)
+console.log(content_projects)
+
 
 function ParseFile(filepath: string) {
     console.log("pre file system call")
