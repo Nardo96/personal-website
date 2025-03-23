@@ -1,10 +1,10 @@
-export const content_about = ParseFile('src/resources/about/example.txt')
-export const content_translations = ParseFile('src/resources/translations/example.txt')
-export const content_projects = ParseFile('src/resources/projects/example.txt')
+export const blocks_about = ParseFile('src/resources/about/example.txt')
+export const blocks_translations = ParseFile('src/resources/translations/example.txt')
+export const blocks_projects = ParseFile('src/resources/projects/example.txt')
 
-console.log(content_about)
-console.log(content_translations)
-console.log(content_projects)
+console.log(blocks_about)
+console.log(blocks_translations)
+console.log(blocks_projects)
 
 
 function ParseFile(filepath: string) {
@@ -13,20 +13,20 @@ function ParseFile(filepath: string) {
         const fs = require('fs')
         const data = fs.readFileSync(filepath, 'utf8')
         const lines = data.split("\n")
-        let results = []
-        let post = []
+        let blocks = []
+        let block = []
         console.log("file opened")
 
         for (const line of lines) {
             var index = 0
-            // The case of a blank, separator new line between posts
+            // The case of a blank, separator new line between blocks
             if (line.length == 0) {
                 continue
             }
             if (line[index] == "{" || line[index] == "}") {
-                if (post.length != 0) {
-                    results.push(post)
-                    post = []
+                if (block.length != 0) {
+                    blocks.push(block)
+                    block = []
                 }
                 continue
             }
@@ -36,11 +36,11 @@ function ParseFile(filepath: string) {
             const delim = line.slice(0, index)
             const remain = line.slice(index)
             console.log(line)
-            post.push([delim, remain])
+            block.push([delim, remain])
         }
 
-        console.log(results)
-        return results
+        console.log(blocks)
+        return blocks
     } catch (err) {
         console.error(err)
     }

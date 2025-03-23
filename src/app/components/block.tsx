@@ -1,6 +1,6 @@
 import { AboutMap, TranslationsMap, ProjectsMap } from "@/app/util/map-delimiters"
 
-export default function Block({content, mapperString}) {
+export default function Block({block, mapperString}) {
     let mapper
     if (mapperString == 'about') {
         mapper = AboutMap
@@ -13,7 +13,7 @@ export default function Block({content, mapperString}) {
     }
     return (
         <>
-        {content.map((item,index) => (
+        {block.map((item,index) => (
                 <div className={mapper.get(item[0])} key={index}>{item[1]}</div>
             ))}
         </>
