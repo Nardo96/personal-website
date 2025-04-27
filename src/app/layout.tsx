@@ -32,7 +32,7 @@ export default function RootLayout({
           <a href="/translations/">J-E Translations</a>
           <a href="/projects/">Code Projects</a>
         </nav>
-        <main className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">{children}</main>
+        <main className="items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)] flex flex-col">{children}</main>
       </body>
     </html>
   );
