@@ -11,11 +11,21 @@ export default function Block({block, mapperString}) {
     else {
         mapper = ProjectsMap
     }
+
     return (
-        <>
-        {block.map((item,index) => (
-                <div className={mapper.get(item[0])} key={index}>{item[1]}</div>
+        <div className="Block">
+        {block.map((line,index) => (
+                <BlockLineHelper line={line} key={index} mapper={mapper}/>
             ))}
-        </>
+        </div>
     )
+}
+
+export function BlockLineHelper({line, mapper}) {
+    if (mapper.get(line[0])== "Bullet Point") {
+        return <li className="list-disc list-inside">{line[1]}</li>
+    }
+    else {
+        return <div className={mapper.get(line[0])}>{line[1]}</div>
+    }
 }
