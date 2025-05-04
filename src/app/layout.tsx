@@ -27,12 +27,12 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <nav className="nav-bar">
+        <nav className="justify-content justify-end items-center justify-items-center gap-16 sm:pt-10 font-[family-name:var(--font-geist-sans)] flex flex-row pe-20 ps-20">
           <a href="/about/">About Me</a>
           <a href="/translations/">J-E Translations</a>
           <a href="/projects/">Code Projects</a>
         </nav>
-        <main className="items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)] flex flex-col">{children}</main>
+        <main className="items-center justify-items-center min-h-screen pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)] flex flex-col">{children}</main>
       </body>
     </html>
   );
