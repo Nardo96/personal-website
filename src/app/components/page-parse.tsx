@@ -5,9 +5,7 @@ export default function PageParse({blocks, mapper}) {
     return (
         <>
         {blocks.map((block,index) => (
-            <div className='Block' key={index}> {index}
-            <Block block={block} mapperString={mapper}></Block>
-            </div>
+            <Block block={block} key={index} mapperString={mapper}></Block>
         ))}
         </>
     )
