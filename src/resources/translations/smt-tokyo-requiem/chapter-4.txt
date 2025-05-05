@@ -1,0 +1,427 @@
+{
+- -14F-
+- 
+-  Bartender:
+- "I hear there's a lot of brawny,
+- powerful demons loitering about.
+- It'll get harder to effectively damage 
+- opponents if they have higher vitality than you, 
+- so if it's looking to be long, drawn out fight,
+- consider raising your vitality.
+- 
+- -8F-
+- 
+- The room was arranged with
+- various types of opulent fixings, and
+- a chandelier hung from the ceiling, 
+- illuminating the sculptures and paintings
+- adorning the space.
+- With a casual glance, 
+- I saw the room's inhabitant
+- spread atop an extravagant, 
+- cabriole-legged sofa.
+- ... She must have been
+- a lady fit
+- for this lavish room.
+- Alas, she had long 
+- turned into
+- a dessicated mummy.
+- The only clues to her gender
+- were her dress and hair, 
+- her face nothing more
+- than wilted skin 
+- on skull.
+- Could this also have been
+- a demon's victim?
+- The dress the woman was wearing looked expensive, 
+- sporting an elegant, prominent design,
+- the fabric still retaining its luster.
+- It seemed like it would looked good on Lilith...
+- Casually, 
+- that abrupt thought brushed by my mind.
+- 
+- [Choose]
+- �I'll give it to Lilith as a present.
+- �Better to mourn her than do something as irreverent as that.
+- �Looks like there's nothing else... I guess I'll leave.
+- 
+- When 'I'll give it to Lilith as a present' is chosen:
+- It felt creepy considering it was a corpse's dress, but
+- maybe that made it even more fitting 
+- for Lilith's demonic self.
+- More than anything else, it really suited her, 
+- and it's not like the dead need any clothing, so, 
+- better to have
+- someone wear it, right?
+- Yet,
+- in trying to undress her,
+- as I touched the mummy...
+- as if weathering away, 
+- the dress and mummy jointly
+- crumbled and disappeared.
+- I thought it was a shame, but seeing nothing else to do, 
+- I left the room.
+- 
+- When 'Better to mourn her than to do something as irreverent as that' is - chosen:
+- Just what kind of calamity
+- had struck this woman?
+- What kind of a person had she been...?
+- With those thoughts at heart,
+- I closed my eyes shut and prayed.
+- Upon opening them,
+- I was shocked by what lay in front of me.
+- A beautiful woman
+- was gently sleeping on the sofa.
+- She seemed radiant
+- with porcelain skin,
+- a faint blush sneaking onto her cheeks,
+- complimenting her faintly cherry lips.
+- Soft, flaxen hair waved past,
+- her long eyelashes dropping an alluring shadow.
+- ... Or so I saw, for a brief instant.
+- By the time I realized it, what lay there
+- was a familiar mummy.
+- Was that...
+- ... a hallucination?
+- After giving my respects to the dead once again,
+- I left the room.
+- 
+- When 'Looks like there's nothing else...' is chosen:
+- Something like a dress would only add bulk, 
+- serving no purpose.
+- Plus, I doubted Lilith would be too happy
+- to wear something off of a corpse...
+- Seeing nothing else in the room, 
+- I saw no reason to stay, 
+- so I left.
+- 
+- -7F-
+- 
+- Tall shelves
+- divided the inside of the room,
+- filled to the brim
+- with books.
+- A library, perhaps?
+- As I walked between the racks, 
+- I saw a single light
+- at a nearby reading desk.
+- 
+- (Protagonist Name):
+- "Lilith...?"
+- 
+- There she was.
+- She seemed to be sleeping at the desk, 
+- her head nuzzled on top of her arm,
+- with a book spread out in front of her.
+- Who would have thought
+- that I'd meet Lilith at a place like that...
+- ...
+- 
+- [Choose]
+- �Sleeping out in a place like this can't be good for her.
+- �I think I'll stay and watch for a while.
+- �I wonder what she was reading...
+- 
+- When 'Sleeping out in a place like this can't be good for her.' is chosen:
+- Sleeping out in a place like this couldn't be good for her.
+- Though, I didn't know if
+- demons could even catch colds...
+- 
+- (Protagonist Name):
+- "Lilith..."
+- Lilith:
+- "Nngh..."
+- 
+- I gently shook her awake.
+- When Lilith opened her eyes...
+- 
+- Lilith:
+- "!"
+- 
+- In shock, she bolted up, 
+- closing shut the book that was on the desk.
+- Then, with tome in hand, 
+- she scurried away into the sea of bookshelves.
+- 
+- (Protagonist Name):
+- "Lilith?!
+- Hey! Wait up!"
+- 
+- I quickly chased after her,
+- but she was nowhere to be seen.
+- I wondered what she was reading.
+- In any case, as always,
+- I couldn't get a read on her...
+- Oh well.
+- I suspected we would meet again if we needed to.
+- Seeing nothing else of note, 
+- I left the library.
+- 
+- When "I think I'll stay and watch for a while." is chosen:
+- I pulled over a nearby chair, sat down, 
+- then peered at Lilith's sleeping face.
+- She looked incredibly gentle, 
+- as far from a demon as anything could appear.
+- ... As I sat watching, 
+- I felt a yearning, heartrending feeling
+- gush forth...
+- As if I'd seen
+- something like this before...
+- Right.
+- I remembered watching as she slept next to me
+- on that park bench, 
+- lured by the thought
+- of a sunlit nap.
+- It should have been a recent memory, 
+- but it seemed like something
+- so long ago.
+- Compared to then,
+- everything had changed...
+- Unable to bear looking any further,
+- I left Lilith there
+- and departed the library.
+- 
+- When 'I wonder what she was reading.' is chosen:
+- I mused on what she had been reading.
+- Wondering if the book
+- had any information regarding
+- demons or this building,
+- quietly,
+- I peeked over to look...
+- 
+- (Protagonist Name):
+- "!"
+- 
+- Lilith suddenly opened her eyes, waking up
+- from the desk and closing the book shut.
+- Then, 
+- with tome in hand, 
+- she scampered away behind the shelves.
+- 
+- (Protagonist Name):
+- "Lilith?!
+- Hey! Wait up!"
+- 
+- I quickly chased after her,
+- but she was nowhere to be seen.
+- Just what could she have been reading?
+- In any case, she was as hard to read as ever...
+- Oh well.
+- I suspected we would meet again if we needed to.
+- Seeing nothing else of note, 
+- I left the library.
+- 
+- -6F-
+- 
+- "What's this place?"
+- Grotesquely shaped plants thickly covered the center of the room, 
+- with countless insects I had never seen before crawling about.
+- Without thinking, I stiffened up
+- at the ghastly sight in front of me.
+- On cue, the insects slithering about the ground starting gathering in one - spot, 
+- emanating a terrible, otherworldly sound.
+- They were fervently eating something.
+- ... Each other?
+- That's right, they were cannibalizing each other!
+- As they did so,
+- the collection of bugs packed on mass,
+- becoming bigger and bigger.
+- What finally appeared
+- was the agglutination of countless reptiles, insects, and such.
+- It was a monstrous creature I had never seen before.
+- 
+- ?:
+- "I am Bael, 
+- an ancient god scorned by heaven.
+- Now is the time of my vengeance!
+- Humans, blessed by God!
+- No one! Not a single one...
+- Will survive!
+- Die!!
+- I'll kill you!!
+- Urgh...
+- DIE DIE DIE DIE DIE!!"
+- 
+- What's wrong with this guy?!
+- Why was he 
+- taking it out on me?!
+- 
+- Three Tyrant Bael appeared.
+- 
+- Bael:
+- "--Again!
+- Thwarted again by the schemes of heaven!
+- You're nothing but a ****!!
+- Damn it!
+- Damn it all!!!"
+- 
+- Accompanied by an awful, unearthly sound, 
+- the mass of monsters crumbled and disappeared.
+- Seeing that I had safely gotten through the encounter,
+- I took a breath in relief.
+- 
+- ?:
+- "Looks like you're safe."
+- 
+- That moment,
+- a voice suddenly came from the side.
+- 
+- (Protagonist Name):
+- "Lilith?"
+- 
+- Turning around to look, 
+- I saw that Lilith had been standing there since some point.
+- 
+- Lilith:
+- "The guard this time around wasn't easy.
+- I thought I'd drop by just in case, but
+- it looks like that wasn't necessary."
+- 
+- Her deep, somber eyes
+- reflecting a clever glint, 
+- she seemed the usual, unreadable demon Lilith,
+- but somehow,
+- I thought it seemed like
+- she had on an expression of relief.
+- Or was that just my own wishful thinking?
+- 
+- (Protagonist Name):
+- "I may look like this, but it was a hard fight.
+- I totally thought I'd die."
+- Lilith:
+- "You keeping getting stronger day after day.
+- The demons probably won't sit back and do nothing."
+- (Protagonist Name):
+- "Looks like all that hard work's made me popular...
+- I don't think I have enough lives.
+- So, what did you drop by for this time?
+- I doubt you only came to congratulate me, right?"
+- Lilith:
+- "I came to warn you.
+- You..."
+- Proceedings will change according to the protagonist's alignment
+- 
+- If the protagonist's alignment is LAW:
+- "You're a kind, deeply compassionate man.
+- But, in being so,
+- you'll end up being used by the angels.
+- They wish only to exploit your power."
+- (Protagonist Name):
+- "Lilith... No, (Heroine Name)...
+- Don't you also
+- want to use me?"
+- Lilith:
+- "Hehe...
+- You might be right.
+- But I exist for your sake.
+- I am what you wish me to be.
+- Don't forget that..."
+- (Protagonist Name):
+- "(Heroine Name)..."
+- Lilith:
+- "Take this."
+- 
+- You obtained an Incense of Wisdom!
+- You obtained an Incense of Vitality!
+- 
+- (Protagonist Name):
+- "This is...?"
+- Lilith:
+- "This is a magical incense that will spring forth power when you light it.
+- It should definitely help you in your coming battles."
+- (Protagonist Name):
+- "Thanks.
+- This isn't a trap, right?"
+- Lilith:
+- "I prepared it just for you.
+- I hope you can believe me."
+- (Protagonist Name):
+- "Alright, I'll take it.
+- Thanks."
+- Lilith:
+- "Then, I'll go on ahead.
+- Please do be careful."
+- 
+- Leaving those words,
+- soundlessly, she disappeared into darkness.
+- 
+- If the protagonist's alignment is NEUTRAL:
+- "You always decide things by yourself.
+- But, in doing so,
+- you'll end up alone.
+- Now that the world's like this, 
+- humans have to cling to something
+- to survive."
+- (Protagonist Name):
+- "Lilith... No, (Heroine Name)...
+- Humans are always alone.
+- Even if they do rely on something."
+- Lilith:
+- "Hehe...
+- You might be right.
+- But I exist for your sake.
+- I live precisely because you want me to.
+- Don't forget that..."
+- (Protagonist Name):
+- "(Heroine Name)..."
+- Lilith:
+- "Take this."
+- 
+- You obtained an Incense of Strength!
+- You obtained an Incense of Agility!
+- 
+- (Protagonist Name):
+- "This is...?"
+- Lilith:
+- "It's a magical incense that will spring forth power when you light it.
+- It should definitely help you in your coming battles."
+- (Protagonist Name):
+- "Alright, I'll take it.
+- Thanks."
+- Lilith:
+- "Then, I'll go on ahead.
+- Please do be careful."
+- 
+- Leaving those words,
+- soundlessly, she disappeared into darkness.
+- 
+- If the protagonist's alignment is CHAOS:
+- "You're honest to your own emotions.
+- But, in being so, 
+- you'll end up being used by the demons.
+- I don't want to hand you over
+- to anyone else."
+- (Protagonist Name):
+- "Lilith... No, (Heroine Name)...
+- I feel the same.
+- I want to always be with you."
+- Lilith:
+- "Hehe...
+- I'm glad.
+- But, now's not the time for that yet.
+- To win it all, 
+- you'll need more power..."
+- (Protagonist Name):
+- "(Heroine Name)..."
+- Lilith:
+- "Take this."
+- 
+- You obtained an Incense of Magic!
+- You obtained an Incense of Strength!
+- 
+- (Protagonist Name):
+- "This is...?"
+- Lilith:
+- "It's a magical incense that will spring forth power when you light it.
+- It should definitely help you in your coming battles."
+- 
+- (Protagonist Name):
+- "Alright, I'll take it.
+- Thanks."
+- Lilith:
+- "Then, I'll go on ahead.
+- Please do be careful."
+- 
+- Leaving those words,
+- soundlessly, she disappeared into darkness.
+}

@@ -1,0 +1,520 @@
+{
+- -15F-
+- 
+- Bartender:
+- "So you're the guy who's been
+- making his way down the building, huh.
+- I'll tell you something good.
+- It seems there's a sword that grows as you fuse it
+- with certain demons.
+- The Grass-Cutting Sword, or the Spirit Sword, or something...
+- If you have it, you should unequip it
+- and take it to the Cathedral of Shadows."
+- 
+- -14F-
+- 
+- (Protagonist Name):
+- "!?"
+- 
+- As soon as I entered the room, 
+- a strong, sudden light stole my field of vision.
+- As if a sun had come down right on top of me, 
+- eyes shut from the glare, 
+- I felt a warmth spread throughout my face.
+- Just what...?
+- 
+- ?:
+- "(Protagonist Name)."
+- (Protagonist Name):
+- "Who... are you?"
+- 
+- The light dimmed greatly, and eventually, 
+- I could see what lay in front of me.
+- A man was standing there, 
+- tall, copper-skinned, 
+- and with an intrepid look about him.
+- On his back, 
+- behind polished armor...
+- spanned a pair of 
+- dazzlingly beautiful wings.
+- He seemed wrapped 
+- in a glaring light.
+- 
+- ?:
+- "I am Michael, leader of angels."
+- 
+- It was a voice dripping with pride and confidence.
+- 
+- Michael:
+- "(Protagonist Name).
+- Did you not heed my warning from last time?"
+- (Protagonist Name):
+- "Warning?"
+- Michael:
+- "You should have heard from Gabriel
+- to not be tricked by Lilith."
+- (Protagonist Name):
+- "...Ah!
+- That man in white..."
+- Michael:
+- "That was Gabriel,
+- messenger of the gods.
+- Why do you think
+- I went out of my way to send him?
+- Your prominent activities
+- draw the attention of even us archangels.
+- Accordingly, you must not allow yourself to fall
+- to the machinations of demons.
+- Stray not
+- from the righteous path, 
+- and be granted the providence of Heaven.
+- (Protagonist Name):
+- "You mean...
+- you're saying you'll help me get out of this building...
+- ...?"
+- Michael:
+- "Angels spare no succor
+- to those who follow the will of God.
+- (Protagonist Name).
+- Know that Lilith is a trap."
+- ?:
+- "Insolent words, coming from an angel!"
+- Michael:
+- "!"
+- 
+- Darkness arrived.
+- It swelled and expanded, 
+- eroding the light emanating from the archangel.
+- And from the darkness
+- walked a man dressed in black...
+- 
+- Michael:
+- "Satan."
+- Satan:
+- "It's been a while, hasn't it, Michael?"
+- Michael:
+- "Leave this place.
+- I have no words to speak to you."
+- Satan:
+- "I'm afraid I can't let it be.
+- Not after hearing you call her a demon's trap.
+- An evil plot, even?"
+- Michael:
+- "That's correct.
+- Demons exist to mislead, 
+- deceive, and corrupt humans."
+- Satan:
+- "Not quite, archangel.
+- To be misled,
+- to be deceived, and to be corrupted are what it means to be human.
+- Demons simply enable it.
+- Unlike angels, who refuse to accept
+- humanity's weakness.
+- Lilith is the same.
+- ... (Protagonist Name).
+- Unable to leave you to die, her heart, in that moment of death, 
+- bore a certain doubt.
+- I simply accepted it
+- as it was."
+- Michael:
+- "Mere sophistry!"
+- Satan:
+- "My words, or yours, I wonder."
+- 
+- It was a confrontation of light and darkness.
+- Funnily enough, 
+- the two seemed similar in some way,
+- even though they were polar opposites...
+- 
+- Michael:
+- "God is Truth.
+- So it was decided
+- in the beginning, and necessitates
+- no validation."
+- Satan:
+- "Is that so?
+- Funny.
+- Then, allow me to see it through to the end."
+- 
+- Satan sent a glance towards my direction, 
+- then smiled.
+- I could see indignation flaring in Michael's face.
+- However...
+- As the angel retracted his wings, 
+- his figure seemed to fade into the light.
+- 
+- Michael:
+- "Do not forget my words."
+- 
+- The demon similiarly began to 
+- step into the darkness. 
+- 
+- Satan:
+- "There's nothing emptier than an angel's words..."
+- 
+- Then, the two left. What remained
+- was just one
+- lone human.
+- 
+- -13F-
+- 
+- Lilith:
+- "(Protagonist Name)..."
+- (Protagonist Name):
+- "L-..."
+- 
+- Lilith,
+- I tried to called out, but stopped.
+- Was she (Heroine Name), 
+- at this point?
+- Then again, 
+- she was undoubtedly a demon.
+- As if to jolt those thoughts out of me,
+- Lilith began to sway and change form
+- before my very eyes.
+- 
+- (Protagonist Name):
+- "!!"
+- 
+- What lay there was none other than
+- dear (Heroine Name).
+- Reunited with someone
+- I thought I'd never meet again, 
+- I felt a heat well up inside me.
+- 
+- (Protagonist Name):
+- "(Heroine Name)!"
+- Lilith:
+- "(Protagonist Name)...
+- I'm sorry...
+- I'm hurting you, aren't I?
+- But...
+- even so, I wanted to be with you.
+- No matter what, I couldn't bear
+- to lose you like that.
+- Maybe it was all my ego.
+- But...
+- There was no other way.
+- Nothing other than to accept Lord Satan's pact,
+- and serve him as the demon Lilith.
+- (Protagonist Name):
+- "What is Satan trying to have you do
+- ?"
+- 
+- Lilith shook her head.
+- I wondered if she couldn't say it.
+- Satan was her master, after all.
+- 
+- Lilith:
+- "But, I can say this.
+- I live for your sake.
+- That is my life's purpose.
+- And...
+- my feelings never changed..."
+- (Protagonist Name):
+- "(Heroine Name)...!"
+- 
+- [Choose]
+- �Maybe God has the power to do something.
+- �I don't care even if you're a demon!
+- �But, you're under Satan's control...
+- 
+- When 'Maybe God has the power to do something.' is chosen:
+- (Protagonist Name):
+- "Maybe God has the power to do something.
+- Michael said it, didn't he?
+- 'Angels spare no succor
+- to those who follow the will of God.' 
+- Even though you're a demon right now, you were a human originally.
+- Plus...
+- You haven't lost your heart.
+- It seems more like you're being tricked by Satan.
+- ... The angels will definitely understand."
+- Lilith:
+- "(Protagonist Name)..."
+- (Protagonist Name):
+- "At any rate, I aim to break through to the next floor.
+- ... I'll defeat demons, 
+- acting in accordance with the will of God.
+- If I do so, I may be able to save you...
+- ..."
+- 
+- Lilith smiled
+- and nodded, but 
+- that smile seemed somewhat lonely.
+- 
+- Lilith:
+- "I should get going.
+- I'm still a demon, after all.
+- Those angels won't be too happy
+- if we stay together too long, will they?"
+- 
+- And so she left.
+- 
+- When 'I don't care even if you're a demon!' is chosen:
+- (Protagonist Name):
+- "I don't care even if you're a demon!
+- No matter what,
+- you'll always be (Heroine Name)!
+- You haven't lost your compassion...
+- Isn't that enough?"
+- 
+- Lilith showed a downcast expression.
+- 
+- Lilith:
+- "At some point, 
+- you'll have to make a choice..."
+- (Protagonist Name):
+- "A choice?
+- What kind?"
+- Lilith:
+- "One that will determine your fate.
+- I exist to guide that choice, 
+- and, in turn, be guided by it."
+- 
+- Her words puzzled me.
+- 
+- Lilith:
+- "It's still not that time yet...
+- But please don't forget.
+- That time will come..."
+- 
+- Leaving only those words,
+- Lilith departed.
+- 
+- When 'But, you're under Satan's control...' is chosen:
+- (Protagonist Name):
+- "But, you're under Satan's control...
+- you were probably ordered
+- to get close to me, right?"
+- Lilith:
+- "That's..."
+- (Protagonist Name):
+- "There's no way a demon would make a deal
+- without getting anything in return.
+- Just what is his objective?"
+- Lilith:
+- "......"
+- (Protagonist Name):
+- "In the first place,
+- can you even really prove that you're (Heroine Name)?"
+- Lilith:
+- "!"
+- (Protagonist Name):
+- "That in itself may be
+- another one of their traps, huh."
+- Lilith:
+- "Yeah,
+- you might be right..."
+- 
+- Though Lilith showed a sorrowful expression at first, 
+- before long, a seductive smile hung upon her lips.
+- 
+- Lilith:
+- "Lord Satan
+- may just like that
+- about you..."
+- (Protagonist Name):
+- "What do you mean?"
+- Lilith:
+- "You'll understand eventually.
+- ...... Let's meet again.
+- Hehe."
+- 
+- Leaving only those words,
+- Lilith departed.
+- 
+- -12F-
+- 
+- Gently,
+- something fluttered down in front of me.
+- It was a playing card.
+- Flipping it over, I saw the queen of spades.
+- 
+- Lucifer:
+- "Hey, looks like we meet again."
+- (Protagonist Name):
+- "Lucifer... right?"
+- Lucifer:
+- "You remembered me?
+- What an honor.
+- Incidentally, you've likely met Lilith again, yes?
+- What did she say?"
+- (Protagonist Name):
+- "She said she lived for my sake..."
+- Lucifer:
+- "I see.
+- ... Then, what about you?
+- She was your girlfriend, wasn't she?"
+- (Protagonist Name):
+- "I..."
+- 
+- [Choose]
+- �I'll save her.
+- �I want to know her true feelings.
+- �I'm worried she may be an enemy.
+- 
+- When 'I'll save her' is chosen:
+- (Protagonist Name):
+- "I'll save her."
+- Lucifer:
+- "Save her?
+- How?"
+- (Protagonist Name):
+- "I'm still figuring that out..."
+- Lucifer:
+- "Hoh.
+- Well, it's fine...
+- But..."
+- 
+- A suggestive look emerged on Lucifer's face.
+- 
+- Lucifer:
+- "Is that really what she wants?"
+- (Protagonist Name):
+- "Huh?"
+- Lucifer:
+- "She exists for your sake.
+- She said that, didn't she?
+- Yet you speak of saving her.
+- You should think on the meaning of her words."
+- (Protagonist Name):
+- "... What do you mean?"
+- Lucifer:
+- "Who knows.
+- That's something for you to figure out!
+- ... Let's meet again, 
+- if the opportunity ever arises."
+- 
+- Lucifer soon disappeared,
+- laughter filling his wake.
+- 
+- When 'I want to know her true feelings' is chosen:
+- (Protagonist Name):
+- "I want to know her true feelings."
+- Lucifer:
+- "True feelings?"
+- (Protagonist Name):
+- "Yeah...
+- She may be a demon, but...
+- she still seems human at heart...
+- Honestly, just what is she thinking...
+- I don't understand her how she feels.
+- If I did, I could at least do 
+- what she wants me to..."
+- Lucifer:
+- "Hoh.
+- Well, it's fine...
+- But..."
+- 
+- A suggestive look emerged on Lucifer's face.
+- 
+- Lucifer:
+- "Is that really what she wants?"
+- (Protagonist Name):
+- "Huh?"
+- Lucifer:
+- "She exists for your sake.
+- She said that, didn't she?
+- And yet you say
+- that her feelings are important.
+- You should think on the meaning of her words."
+- (Protagonist Name):
+- "... What do you mean?"
+- Lucifer:
+- "Who knows.
+- That's something for you to figure out!
+- ... Let's meet again, 
+- if the opportunity ever arises."
+- 
+- Lucifer soon disappeared,
+- laughter filling his wake.
+- 
+- If 'I'm worried she may be an enemy' is chosen:
+- (Protagonist Name):
+- "I'm worried she may be an enemy."
+- Lucifer:
+- "Is that so?"
+- (Protagonist Name):
+- "No matter how many times you say she's reborn, 
+- she's a demon, plus
+- she's contracted with Satan.
+- She...
+- She shouldn't be able to oppose Satan's command.
+- Maybe it's some kind of scheme..."
+- Lucifer:
+- "Hoh.
+- Well, it's fine..."
+- 
+- A suggestive look emerged on Lucifer's face.
+- 
+- Lucifer:
+- "She exists for your sake.
+- She said that, didn't she?
+- You should think on the meaning of her words."
+- (Protagonist Name):
+- "Huh?"
+- "... What do you mean?"
+- Lucifer:
+- "Who knows.
+- That's something for you to figure out!
+- ... Let's meet again, 
+- if the opportunity ever arises."
+- 
+- Lucifer soon disappeared,
+- laughter filling his wake.
+- 
+- -11F-
+- 
+- The room was dark and smelled of mold,
+- with spider's nests littered about, 
+- giving the impression it had
+- been abandoned for untold years.
+- Candlesticks neatly lined the walls, 
+- and what seemed to be an old stone coffin
+- was placed towards the center.
+- It seemed like there would be a stairway up ahead.
+- Thinking so, I stepped into the room, 
+- and suddenly, countless candles lit up.
+- With a menacing rumble, 
+- the stone coffin slowly started to open.
+- Once again, it looked like I wasn't getting through for free.
+- Appearing from the coffin together with pallid light was
+- a fanged, red-eyed man wearing a cloak.
+- He looked like a vampire straight out of a movie!
+- 
+- Vampire:
+- "I am Vampire,
+- divorced from the mortal coil, 
+- the undying king of darkness.
+- Will you join me and live in the darkness forever more?
+- Or will you give up every last drop of your life...?
+- Make your decision."
+- 
+- "Woah, are you serious?!
+- You think I'll let myself get turned into a zombie in a place like this?!"
+- 
+- Three Yoma Vampire appeared.
+- 
+- "Gyaaaaa!!"
+- The vampires raised their final cries.
+- Their bodies crumbled away like sand, 
+- and before long, only dirt remained in the coffin.
+- Seeing that I had safely gotten through the encounter,
+- I took a breath in relief.
+- 
+- (Protagonist Name):
+- "... Oh? This is......"
+- 
+- Peeking into the now-ownerless coffin, 
+- I spotted a sword.
+- It must've been the one of the vampire's private property.
+- The blade's body was simple, but
+- the tip, which let out a calm brilliance, 
+- seemed stacked with both sharpness and pliancy.
+- I couldn't read the inscription, but
+- it was surely the work of some famous smith.
+- (You obtained the Spirit Sword)
+- Graciously accepting this gift, 
+- I departed, sword in hand.
+}

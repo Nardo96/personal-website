@@ -1,3 +1,939 @@
-{
-- Example content
+﻿{
+- (Protagonist Name):
+- "...nngh.."
+- 
+- Opening my eyes, I awoke 
+- on an unfamiliar bed.
+- 
+- (Protagonist Name):
+- "Where...
+- just what happened?"
+- Man:
+- "Oh, you've woken up?
+- I thought you were a goner, 
+- but I suppose that's youth for you."
+- 
+- A young man stood there,
+- clad in white robes and the stench of medicine. The bed I was placed on
+- seemed to be the sort you'd find at a doctor's office.
+- 
+- (Protagonist Name):
+- "Just what...?
+- right...
+- something blew up, and then..."
+- Man:
+- "For now, calm down.
+- You were one of the few
+- to narrowly survive that tragedy.
+- Same as us.
+- By fluke, 
+- we happened to be in the building, 
+- and hence, managed to survive.
+- Those who remain
+- are huddled up in this camp."
+- 
+- My memories were slow to stir.
+- Right. While aimlessly wandering 
+- god knows where, eventually, 
+- I collapsed.
+- 
+- (Protagonist Name):
+- "You saved me?"
+- Man:
+- "Of course.
+- Couldn't just leave you, could I?"
+- (Protagonist Name):
+- "My girlfriend..."
+- Man:
+- "Who?"
+- (Protagonist Name):
+- "There was a girl who 
+- came here with me...... "
+- Man:
+- "Sorry, we found you alone...
+- you were together with someone?
+- What was her name?"
+- (Protagonist Name):
+- "Her name was..."
+- Register Name: HEROINE
+- (Enter Heroine Name)
+- 
+- Man:
+- "(Heroine Name), is it?
+- Well, hopefully she's found..."
+- (Protagonist Name):
+- "Right..."
+- 
+- I couldn't say anything more
+- towards that worried face.
+- She was undoubtedly dead.
+- Like a flashback, I recalled
+- her bloody figure.
+- 
+- (Protagonist Name):
+- "(Heroine Name)..."
+- The man bumped my shoulder.
+- Man:
+- "This probably isn't much of a consolation, but 
+- everyone is more or less
+- in the same boat.
+- Rest, for now. It's... probably best
+- not to think about her too much."
+- (Protagonist Name):
+- "... Right...
+- ......
+- ... thanks..."
+- 
+- He left the office.
+- I lay face up on the bed and closed my eyes
+- as various things circled around in my mind.
+- Her face.
+- That flash of light.
+- The reason that
+- all of this happened.
+- But I had no way of knowing more.
+- Moreover, 
+- it seemed my body hadn't fully healed yet.
+- Before I knew it, 
+- I had begun drifting off to sleep...
+- 
+- Voice:
+- "(Protagonist Name)... (Protagonist Name)..."
+- 
+- I thought I heard a voice calling out.
+- One I had heard before.
+- It was someone I was intimately familiar with...
+- 
+- Voice:
+- "(Protagonist Name)... (Protagonist Name)..."
+- (Protagonist Name):
+- "...!"
+- 
+- With a gasp, I was startled awake.
+- 
+- (Protagonist Name):
+- "(Heroine Name)."
+- 
+- There she was, 
+- standing in the corner of that dark room, 
+- a muffled giggle slipping past her lips.
+- 
+- (Protagonist Name):
+- "No, wait...
+- ... who are you?"
+- 
+- What stood there was not (Heroine Name). 
+- She was gone now.
+- As a sense of loss began filling my chest once more, 
+- with a heavy heart, 
+- I laid my eyes upon the woman in front of me.
+- She was undeniably beautiful.
+- I couldn't tell her age, exactly.
+- At a glance, she seemed to be around my age, 
+- but she was tinged with a mature charm.
+- 
+- Woman:
+- "My name is Lilith."
+- 
+- Her voice, in the end, 
+- somehow gave me a sense of longing.
+- Just what was this feeling?
+- 
+- (Protagonist Name):
+- "Are you also... with the camp?"
+- Lilith:
+- "No, not quite."
+- (Protagonist Name):
+- "......?　Then...?"
+- Lilith:
+- "Rather than me, 
+- let's talk about you."
+- 
+- Lilith laughed, then 
+- quickly made her way down to the bed.
+- Whether from those graceful limbs or supple movements, 
+- she gave off the air of a fickle tabby.
+- 
+- Lilith:
+- "Don't you wanna leave?"
+- (Protagonist Name):
+- "From this camp?"
+- Lilith:
+- "From this building.
+- Since you don't know, I'll tell you.
+- Right now, this entire building is 
+- a demon's nest."
+- (Protagonist Name):
+- "D-Demon?!"
+- Lilith:
+- "Yup.
+- That's why no one
+- can get out of here."
+- (Protagonist Name):
+- "That's..."
+- 
+- It was hard to take her at face value. But after what just happened, 
+- it seemed that 
+- anything was possible. 
+- 
+- (Protagonist Name):
+- "So that's it.
+- But...
+- what does it matter?"
+- Lilith:
+- "Eh?"
+- (Protagonist Name):
+- "It's fine even if I don't go, 
+- isn't it?
+- Those guys told me it was 
+- okay to stay, too."
+- 
+- Right.
+- There was no reason to go out of my way
+- to step into a demon's lair.
+- 
+- Lilith:
+- "Are you really fine with that?"
+- 
+- Suddenly, her hand touched me.
+- In that instant, I was overcome with a mysterious sensation.
+- What in the world?
+- I felt like she knew something
+- about my girlfriend, after all..."
+- 
+- Lilith:
+- "Are you just going to stay here, 
+- waiting for it all to pass?
+- Don't you have
+- somewhere to be?"
+- 
+- Ridiculous.
+- By that point, 
+- I had lost everything.
+- My theretofore peaceful lifestyle, 
+- my mundane daily life, my hopes for the future, 
+- and my ties from the past.
+- Everything was blasted away in an instant.
+- Only emptiness remained.
+- 
+- Lilith:
+- "You haven't lost anything yet."
+- 
+- She spoke like
+- she had seen through me.
+- 
+- Lilith:
+- "But you just may,
+- if you continue hesitating.
+- You can have it all back, if you so desire."
+- (Protagonist Name):
+- "Hold on...
+- are you talking about (Heroine Name)?
+- No way...
+- She's alive...?!"
+- Lilith:
+- "......"
+- (Protagonist Name):
+- "What?
+- Say something.
+- What do you know?
+- Just who the hell are you?"
+- Lilith:
+- "You, yourself,
+- must find the answers you seek."
+- 
+- She spoke as if posing a riddle.
+- Those eyes, 
+- which seemed to look towards me with care, 
+- lit up with an ominous glint.
+- Her crimson lips broke out in a smile.
+- 
+- Lilith:
+- "Hey...
+- don't you want to know how?"
+- 
+- Lilith brought her body so close
+- I could feel her temperature,
+- her breath whispering by my ears.
+- 
+- Lilith:
+- "I, at least, 
+- can teach you." She giggled.
+- (Protagonist Name):
+- "Then teach me.
+- What are you telling me to do?"
+- Lilith:
+- "Escape from this building."
+- (Protagonist Name):
+- "But isn't it supposed to be crawling with demons out there?"
+- Lilith:
+- "That's right.
+- I wouldn't worry too much, though, with what you're holding." 
+- 
+- She talked in a hum, 
+- seemingly in trance.
+- 
+- Lilith:
+- "That is to say, 
+- that Demon Summoning Program you received."
+- (Protagonist Name):
+- "Eh?"
+- Oh right, 
+- that thing that got sent to my phone...!"
+- Lilith:
+- "Yup.
+- So long as you have that application, 
+- you can take demons along as allies.
+- Allied demons will
+- fight your enemies alongside you.
+- With their power, 
+- you may be able to break out of here.
+- ... Now, open the app.
+- Choose your first demon..."
+- 
+- Demon Selection
+- Please choose the first demon 
+- you'd like to ally with.
+- Pixie / Fairy / Lv 2 / NEUTRAL
+- Knocker / Jirae / Lv  4 / LAW
+- War Dog / Beastman / Lv 5 / NEUTRAL
+- 
+- (Protagonist Name):
+- "This...
+- allied demons, huh...
+- I should be able to get out of here with this."
+- Lilith:
+- "If you use it well.
+- Regardless, there's no point in charging out all of a sudden.
+- There are some rather strong demons out there...
+- Plus, you don't know anything about this building, 
+- do you?
+- First thing's first: 
+- go around camp and gather more information.
+- Also,
+- this is Magnetite (MAG).
+- Demons need this to maintain
+- their forms in the human world."
+- (You obtained 3000 MAG)
+- (Protagonist Name):
+- "Alright...
+- understood."
+- 
+- I obediently nodded my head, 
+- prompting Lilith to give me a satisfied smile.
+- 
+- (Protagonist Name):
+- "...... I'll ask once again, but 
+- just who are you?
+- Why'd you show me how to use this app?"
+- Lilith:
+- "Hmm, I wonder why. "
+- (Protagonist Name):
+- "......
+- Whatever.
+- For now, you have my thanks.
+- What are you going to do now?"
+- Lilith:
+- "I can't go with you.
+- But...
+- we will surely meet again."
+- (Protagonist Name):
+- "What do you mean...?"
+- Lilith:
+- "You'll understand eventually...
+- eventually..."
+- 
+- Leaving only the sound of laughter, 
+- Lilith appeared to
+- melt into the dark.
+- It was like I'd been dreaming.
+- Nevertheless, the Demon Summoning Program was
+- definitely working.
+- Though I didn't understand her objective, at the very least, 
+- she had certainly given me the impetus I needed
+-  to act.
+- "First, I should try
+- walking around camp, like she said."
+- 
+- -35F-
+- 
+- Bartender:
+- Before defeating the Furies:
+- "If you're really going to go downstairs, 
+- you should stock up on equipment."
+- After defeating the Furies:
+- "What?!
+- You really made it downstairs?!
+- Y-You're amazing!"
+- 
+- -31F-
+- 
+- Voice:
+- "(Protagonist Name)."
+- 
+- All of a sudden, I heard my name, so I stopped.
+- From the shadows came none other than...
+- 
+- (Protagonist Name):
+- "Lilith!"
+- Lilith:
+- "Hello again.
+- Why so shocked?
+- I said it, didn't I?
+- That we'd meet again."
+- She laughed.
+- 
+- Just like last time,
+- it was flush with a feline charm.
+- 
+- Lilith:
+- "You did well in getting here.
+- Have you gotten used to dealing with demons?"
+- (Protagonist Name):
+- "Yeah. Honestly, it feels pretty good.
+- I managed to come this far with their help.
+- Or...
+- maybe it's all been thanks to you."
+- Lilith:
+- "Really?
+- Ultimately, you were the one to act."
+- 
+- Having said that, Lilith suddenly stared
+- at me with a serious expression.
+- 
+- Lilith:
+- "There's a sentry up ahead. 
+- The demons have placed guards on each floor, 
+- preventing any escape."
+- (Protagonist Name):
+- "Looks that way."
+- Lilith:
+- "Are you going to go?"
+- (Protagonist Name):
+- "Hey, hey, 
+- weren't you the one to tell me to 
+- break out of here?"
+- Lilith:
+- "No,
+- I'm confident I said it was your decision to make."
+- (Protagonist Name):
+- "......
+- If there's nothing else, could you move over?
+- I'm gonna beat this guard and move on."
+- Lilith:
+- "Be careful.
+- You're about to face the Furies.
+- Their brass wings can strike up a gale wind, 
+- and their claws are poisonous to boot."
+- (Protagonist Name):
+- "You came here to tell me that?"
+- 
+- Lilith offered no response, instead touching my hand
+- as if unwilling to part.
+- 
+- Lilith:
+- "That's all I can tell you.
+- The rest is up to you."
+- (Protagonist Name):
+- "You don't have to tell me twice.
+- As for you..."
+- 
+- She quietly shook her head.
+- 
+- (Protagonist Name):
+- "We'll meet again, right...?"
+- Lilith:
+- "Probably...
+- No, we'll definitely meet again...
+- when it's needed..."
+- (Protagonist Name):
+- "I thought about it when we first met, but...
+- you knew about me
+- from the very beginning, didn't you?
+- We...
+- Have we met somewhere...?"
+- 
+- It seemed Lilith had no intention
+- of speaking any further.
+- I couldn't tell what was going on inside her head.
+- 
+- Lilith:
+- "Please do be careful...
+- These birds have made quite a mess of things."
+- 
+- Then, 
+- her figure melted into the dark once more, 
+- leaving behind only a gate.
+- On the other side, the enemy
+- lay waiting.
+- 
+- The room was stuffy
+- and dimly lit.
+- An inexplicable smell of incense
+- wafted through the soured air.
+- 
+- Voice:
+- "Oh?"
+- 
+- Suddenly, a loud voice came flying down,
+- along with the beating of wings.
+- 
+- Voice:
+- "A human?"
+- Voice:
+- "Did you say human?"
+- Voice:
+- "It's a human!　We got a human here!"
+- 
+- Voices echoed about, 
+- followed by screeching laughter.
+- Soon, grotesque creatures appeared, 
+- mixtures of avian and man.
+- Stiff plumes lined their wings, 
+- shining with a metallic luster. Their torsos were statuesque, 
+- cold, yet beautiful.
+- Lilith's words came floating back up.
+- 'You're about to face the Furies.'
+- Those sharp talons
+- certainly seemed furious.
+- With cruel eyes, the crones shot towards me,
+- leaving shrill laughter
+- and inauspicious mutterings in their wake.
+- 
+- Furiae 1:
+- "Human!
+- Just where do you think you are?
+- If you waltzed in here by accident..."
+- Furiae 2:
+- "In that case, we can let you off the hook, 
+- after you leave behind an arm or two."
+- Furiae 3:
+- "He only really needs his legs, right?"
+- The Furies:
+- "Hahahahahahaha!"
+- (Protagonist Name):
+- "Too bad, but I'm coming through."
+- Furiae 1:
+- "Did you hear that, sisters?"
+- Furiae 2:
+- "Oh, I heard.
+- This human thinks he can just pass through here."
+- Furiae 3:
+- "Kid,
+- if you're saying you stepped in here,
+- knowing that it was the lair of us Furies, then..."
+- Furiae 1:
+- "You're not getting out of here alive!"
+- 
+- With raucous laughter, the Furies launched towards me,
+- their metal wings dancing through the air.
+- 
+- Furiae 2:
+- "I never thought I'd get to meet
+- a human quite like this...!"
+- Furiae 3:
+- "Punk!
+- Looks like you're not afraid of demons, huh?"
+- Furiae 1:
+- "Your body's about to be 
+- taught a sharp lesson!"
+- Furiae 2:
+- "Rip his entrails out!"
+- Furiae 3:
+- "We're eating meat tonight!"
+- The Furies:
+- "Hahahahahahaha!"
+- 
+- Three Furiae appeared.
+- 
+- The last Furiae collapsed.
+- Across fluttering feathers,
+- I could see a gaping doorway.
+- One way or another, it seemed like I could 
+- get down to the next floor.
+- Yet, I was still high up in the building.
+- Further down, there would surely be 
+- stronger foes lying in wait...
+- 
+- -30F-
+- 
+- Bartender:
+- Before defeating Lilith:
+- "We can hardly do a thing about 
+- the demon guarding the 26th  floor...
+- Hell.. no matter which floor you look in,
+- they're all crawling with demons."
+- After defeating Lilith:
+- "You beat the guard?!
+- Looks like we can start heading down... Go on and drink up, 
+- it's on the house!"
+- 
+- -26F-
+- 
+- Lilith:
+- "How are you feeling?"
+- 
+- Suddenly, Lilith appeared.
+- Her visits were always abrupt.
+- 
+- (Protagonist Name):
+- "Lilith, huh....
+- you're all over the place."
+- Lilith:
+- "Hehe.
+- I'll go anywhere, 
+- if you're there."
+- (Protagonist Name):
+- "So, you're free to 
+- move about this building, then.
+- Can you also go outside?"
+- Lilith:
+- "Oh? Why do you wanna know?"
+- (Protagonist Name):
+- "I just...
+- wanted to know what was happening out there."
+- Lilith:
+- "That's something
+- you should find out by yourself."
+- (Protagonist Name):
+- "I thought you'd say that."
+- Lilith:
+- "Hehe."
+- 
+- Lilith's manner, 
+- capricious as it was, 
+- seemed also tinged
+- with something of a caring aura.
+- Like she was protecting me,
+- guiding me...
+- 
+- (Protagonist Name):
+- "So?
+- Since you're here, 
+- you have something to say, right?"
+- Lilith:
+- "That's right.
+- You'd better be careful
+- if you're gonna go down this path."
+- (Protagonist Name):
+- "!?
+- You mean..."
+- Lilith:
+- "Yup.
+- There's a guard up ahead. 
+- A group of Yoma Lilim
+- is eagerly awaiting your arrival.
+- Creatures of the night, they chant songs of darkness -
+- be careful of their voices.
+- I pray for your success.
+- Until we meet again."
+- 
+- She left the way she came, 
+- disappearing into the air.
+- 
+- The room was pitch-black.
+- Yet,
+- seemingly with my one-step intrusion as a signal, 
+- in the darkness, flames roared to life.
+- Candle flames.
+- One by one, any number of candles lit up, 
+- throwing off an eerie glow.
+- I hazily began to sense a presence within...
+- The sound of giggling 
+- filled the air.
+- By the time I realized it,
+- a group of Yoma, in the forms of innocent young girls, 
+- had surrounded me!
+- 
+- Three Yoma Lilim appeared.
+- 
+- -25F-
+- 
+- Bartender:
+- "You came from upstairs?
+- Impressive.
+- Do you think you could also
+- take care of a monster on the 21st  floor for me?"
+- 
+- -23F-
+- 
+- A thick screen of tobacco smoke
+- hung widely in the air.
+- For the first time in a while, 
+- I thought I heard the boisterous sounds
+- of catcalls and laughter.
+- But, 
+- rather than from happiness, 
+- that empty noise came from a need
+- to drown out the fear and despair
+- that lay in front of them.
+- 
+- Man:
+- "Hey dude!
+- You wanna join in?
+- We don't have enough players."
+- 
+- The guys who called out to me
+- seemed to be trying to play some sort of card game. 
+- Littered around me were
+- shady gambling tables, roulettes, 
+- and the like.
+- With screams of joy and sorrow as the background, 
+- the masses drank and smoked themselves
+- into pandemonium.
+- 
+- (Protagonist Name):
+- "Oh boy. I don't think I'll manage to get any real info, 
+- at this rate."
+- As I turned to leave, 
+- I heard a nearby drunkard
+- mumble something out
+- in a slur.
+- 
+- Drunkard:
+- "Hey!
+- I saw it!
+- ... a horse...
+- no, something more... mystical...
+- the sentry...
+- that...
+- that was...."
+- 
+- After muttering one last time, the man drifted off to sleep, 
+- and started snoring.
+- Oh boy.
+- 
+- -21F-
+- 
+- Man in White:
+- "Hey, you!"
+- 
+- A young man dressed in white
+- came calling, neatly groomed, 
+- his eyes carrying a 
+- strong will.
+- Though I felt
+- a sort of oppressive dignity from him, 
+- at the same time, 
+- he seemed honest and straightfoward.
+- 
+- Man in White:
+- "You're (Protagonist Name), right?"
+- (Protagonist Name):
+- "Do you know me?
+- Who are you?"
+- Man in White:
+- "I came to give you some advice."
+- (Protagonist Name):
+- "Advice?"
+- Man in White:
+- "Well,
+- maybe I should call it a warning instead.
+- It's about Lilith."
+- (Protagonist Name):
+- "You know her?!"
+- Man in White:
+- "She is a trap of fate, if you will, 
+- meant to determine who you truly are."
+- (Protagonist Name):
+- "... Huh?"
+- Man in White:
+- "Put simply, 
+- Lilith is a 
+- temptress."
+- (Protagonist Name):
+- "So you're saying she's supposed to tempt me?
+- ... Just who is she?"
+- Man in White:
+- "You already know, don't you?
+- It's (Heroine Name), after all."
+- (Protagonist Name):
+- "...... Huh...?"
+- Man in White:
+- "As you know, 
+- (Heroine Name) died."
+- (Protagonist Name):
+- "In the explosion..."
+- Man in White:
+- "Precisely.
+- But just in that moment of death,
+- she made a wish.
+- She didn't want to leave you behind.
+- Such a powerful, yet transient plea
+- could not escape demonic eyes.
+- Before long, between life and death, 
+- a certain being murmured towards her.
+- 'I don't mind letting you live,
+- as a demon, that is.'"
+- (Protagonist Name):
+- "That's!
+- ... Then...
+- you're saying Lilith is..."
+- Man in White:
+- "(Heroine Name) sold her soul to demons, 
+- and in doing so, was reborn as one."
+- (Protagonist Name):
+- "No!
+- There's no way she's a demon!"
+- Man in White:
+- "What makes you so certain?"
+- (Protagonist Name):
+- "Because......
+- she's...
+- really nice, and..."
+- Man in White:
+- "It is precisely her kindness
+- that made her deal with the devil.
+- That, and her desire to be by your side,
+- even at the pain of becoming a demon."
+- (Protagonist Name):
+- "That's...
+- ... Then... she did all that... for me?"
+- Man in White:
+- "Yet her choice was mistaken.
+- I'll say it again.
+- She serves no purpose
+- other than to be an alluring trap.
+- Fate is ever-changing -
+- everything depends on your decisions.
+- You must walk the path of light.
+- Henceforth,
+- heed not the words
+- of that woman."
+- (Protagonist Name):
+- "Hold on, wait!"
+- 
+- Having said his part, he made to leave.
+- I tried to chase after him, 
+- but soon lost vision of him.
+- It was a strange meeting,
+- and an unbelievable story.
+- Come to think of it,
+- she and Lilith shared some commonalities.
+- There was also that 
+- familiar feeling back in the beginning...
+- But, 
+- why did he want me to ignore Lilith?
+- Up until now, 
+- she'd been giving me information about the enemy, 
+- and that info had been correct.
+- Even so, did he mean to imply that
+- there was no guarantee I could trust 
+- what she said from now on?
+- It didn't look like I'd get an answer 
+- just standing there.
+- I wanted to see Lilith and figure it out myself.
+- Maybe we could meet again
+- if I aimed to challenge the next sentry...
+- 
+- (Protagonist Name):
+- "Lilith!"
+- Lilith:
+- "Looks like you're moving along rather well."
+- (Protagonist Name):
+- "This is the guard room, huh."
+- Lilith:
+- "Precisely.
+- Ahead lies the sacred beast - "
+- (Protagonist Name):
+- "Before that, I've got something to ask you."
+- Lilith:
+- "What's that?"
+- (Protagonist Name):
+- "Are you really (Heroine Name)?"
+- Lilith:
+- "...!"
+- 
+- Her expression paled,
+- in sharp contrast to the teasing manner
+- she had kept until then.
+- 
+- (Protagonist Name):
+- "Well?"
+- Lilith:
+- "......"
+- (Protagonist Name):
+- "Why won't you talk?"
+- Lilith:
+- "I...
+- ... I..."
+- 
+- Face pallid,
+- she averted her eyes.
+- 
+- (Protagonist Name):
+- "So it's true?
+- I can't believe it...
+- You're... (Heroine Name)..."
+- Lilith:
+- "No!
+- I'm...
+- I'm...!"
+- 
+- Her lips trembled, 
+- like she wanted to cry out her gushing thoughts, 
+- but couldn't do so.
+- And so,
+- 
+- (Protagonist Name):
+- "H-Hey!"
+- 
+- As if running away,
+- she disappeared.
+- 
+- (Protagonist Name):
+- "Lilith..."
+- 
+- That moment,
+- a ghastly, otherwordly voice
+- came haunting from across the passageway.
+- It seemed the guard
+- had gotten tired of waiting.
+- 
+- The sound of hooves crashing through the ground filled the air.
+- Situated there
+- was a horde of fantastical creatures.
+- They seemed spirited, like stallions,
+- heroic, like lions, 
+- and graceful, like deer.
+- And atop their heads lay a unicorn's horn.
+- They brandished their horned heads, 
+- and charged towards me.
+- I hesistated at the thought of fighting 
+- such seemingly holy beings.
+- But, the herd had no intention of waiting for me to decide!
+- 
+- Three Holy Beast Kirin appeared.
+- 
+- "Gyyaaaaa--!!"
+- The death throes of the last Holy Beast echoed about...
+- It seemed I had gotten out of it safely.
+- 
+- (Protagonist Name):
+- "...hm?"
+- 
+- As I looked around me, 
+- I spotted a man's corpse.
+- This body, torn apart by the beasts, 
+- was damaged beyond recognition.
+- One wrong move and this might have been me...
+- I felt my back grow cold with sweat.
+- Looking closer, 
+- I saw his hand holding a blade.
+- 
+- (Protagonist Name):
+- "This... seems like a rather impressive sword."
+- 
+- As I took the blade, 
+- its honed edge reflecting a dazzling light, 
+- I realized that this was a masterwork.
+- Thank you...
+- At that moment, for reasons unknown to me, 
+- the blade itself seemed to rejoice.
+- Though I had just stolen from a dead man, 
+- I felt as if the sword had wanted me to do it.
+- Was this the so-called will these famed swords possessed?
+- (You obtained Famed Sword Kotetsu!)
+- Graciously accepting this gift, 
+- I departed, sword in hand.
 }
