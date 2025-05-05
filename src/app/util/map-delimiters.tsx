@@ -1,18 +1,18 @@
 export const AboutMap = new Map([
-    ['#', 'Job Title'],
+    ['#', 'Title'],
     ['##', 'Company'],
-    ['@', 'Date Range'],
-    ['@@', 'Location'],
+    ['@', 'Location'],
+    ['@@', 'Date Range'],
     ['-', 'Bullet Point'],
 ])
 
 export const TranslationsMap = new Map([
-    ['#', 'Chapter Title'],
+    ['#', 'Title'],
     ['-','Line'],
 ])
 
 export const ProjectsMap = new Map([
-    ['#', 'Project Title'],
+    ['#', 'Title'],
     ['@', 'Git Repo'],
     ['$', 'Image'],
     ['-', 'Description']
