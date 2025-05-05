@@ -1,6 +1,6 @@
 import { AboutMap, TranslationsMap, ProjectsMap } from "@/app/util/map-delimiters"
 
-export default function Block({content, mapperString}) {
+export default function Block({block, mapperString}) {
     let mapper
     if (mapperString == 'about') {
         mapper = AboutMap
@@ -11,11 +11,24 @@ export default function Block({content, mapperString}) {
     else {
         mapper = ProjectsMap
     }
+
     return (
-        <>
-        {content.map((item,index) => (
-                <div className={mapper.get(item[0])} key={index}>{item[1]}</div>
+        <div className="Block">
+        {block.map((line,index) => (
+                <BlockLineHelper line={line} key={index} mapper={mapper}/>
             ))}
-        </>
+        </div>
     )
+}
+
+export function BlockLineHelper({line, mapper}) {
+    if (mapper.get(line[0])== "Bullet Point") {
+        return <li className="list-disc list-inside">{line[1]}</li>
+    }
+    else if (mapper.get((line[0])) == "Image") {
+        return <img src={line[1]} alt="Image"/>
+    }
+    else {
+        return <div className={mapper.get(line[0])}>{line[1]}</div>
+    }
 }
