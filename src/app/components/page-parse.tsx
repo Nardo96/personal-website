@@ -4,7 +4,7 @@ export default function PageParse({blocks, mapper}) {
     console.log(`Parsing ${mapper}`)
     if (mapper == "projects") {
         return (
-            <div className="w-full max-w-250 flex flex-col gap-48">
+            <div className="w-full max-w-250 flex flex-col gap-36">
             {blocks.map((block,index) => (
                 <Block block={block} key={index} mapperString={mapper}></Block>
             ))}

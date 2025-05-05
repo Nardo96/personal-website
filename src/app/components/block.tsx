@@ -22,18 +22,25 @@ export default function Block({block, mapperString}) {
 }
 
 export function BlockLineHelper({line, mapper}) {
+    let pageStyling = ""
+    if (mapper === ProjectsMap) {
+        pageStyling = "text-center"
+    }
     let type = mapper.get(line[0])
     if (type == "Bullet Point") {
-        return <li className="list-disc list-inside">{line[1]}</li>
+        return <li className={"list-disc list-inside"}>{line[1]}</li>
     }
     else if (type == "Image") {
-        return <img src={line[1]} alt="Image" className="mb-4 mt-4"/>
+        return <img src={line[1]} alt="Image" className={pageStyling + " " + "mb-4 mt-4"}/>
     }
     else if (type == "Title") {
-        return <h1 className="font-bold">{line[1]}</h1>
+        return <h1 className={pageStyling + " " + "font-bold"}>{line[1]}</h1>
 
     }
+    else if (type == "Git Repo") {
+        return <div className = {pageStyling + " " + "mb-4"}>{line[1]}</div>
+    }
     else {
-        return <div className={mapper.get(line[0])}>{line[1]}</div>
+        return <div>{line[1]}</div>
     }
 }
