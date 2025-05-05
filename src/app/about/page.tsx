@@ -2,7 +2,7 @@ import {blocks_about} from '@/app/util/parse-file'
 import PageParse from '@/app/components/page-parse'
 
 
-export default function About() {
+export default function AboutPage() {
     console.log(blocks_about)
     return (
         <>

@@ -2,7 +2,7 @@ import {blocks_projects} from '@/app/util/parse-file'
 import PageParse from '@/app/components/page-parse'
 
 
-export default function About() {
+export default function ProjectsPage() {
     console.log(blocks_projects)
     return (
         <>
