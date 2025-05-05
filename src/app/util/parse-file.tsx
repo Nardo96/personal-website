@@ -34,7 +34,7 @@ function ParseFile(filepath: string) {
                 index += 1
             }
             const delim = line.slice(0, index)
-            const remain = line.slice(index)
+            const remain = line.slice(index+1)
             console.log(line)
             block.push([delim, remain])
         }

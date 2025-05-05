@@ -25,6 +25,9 @@ export function BlockLineHelper({line, mapper}) {
     if (mapper.get(line[0])== "Bullet Point") {
         return <li className="list-disc list-inside">{line[1]}</li>
     }
+    else if (mapper.get((line[0])) == "Image") {
+        return <img src={line[1]} alt="Image"/>
+    }
     else {
         return <div className={mapper.get(line[0])}>{line[1]}</div>
     }
