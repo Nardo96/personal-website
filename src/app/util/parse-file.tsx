@@ -1,7 +1,7 @@
 export const blocks_about = ParseFile('src/resources/about/example.txt')
 export const blocks_translations = ParseFile('src/resources/translations/example.txt')
 export const blocks_projects = ParseFile('src/resources/projects/example.txt')
-
+export const chapter_list_smttr = GetFileNames('src/resources/translations/smt-tokyo-requiem')
 console.log(blocks_about)
 console.log(blocks_translations)
 console.log(blocks_projects)
@@ -44,4 +44,16 @@ function ParseFile(filepath: string) {
     } catch (err) {
         console.error(err)
     }
+}
+
+function GetFileNames(filepath: string) {
+    const fs = require('fs')
+    const data = fs.readdirSync(filepath)
+    let files = []
+    for (const file of data) {
+        if (file.endsWith(".txt")) {
+            files.push(file)
+        }
+    }
+    return files
 }

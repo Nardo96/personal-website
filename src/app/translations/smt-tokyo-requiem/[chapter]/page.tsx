@@ -1,10 +1,7 @@
+import { chapter_list_smttr } from "@/app/util/parse-file"
 export async function generateStaticParams() {
-    const posts = {
-        'prologue-site-version': 'prologue-site-version',
-        'prologue-game-version': 'prologue-game-version',
-    }
    
-    return Object.entries(posts).map(([key, value]) => ({
+    return chapter_list_smttr.map(([key, value]) => ({
       slug: value,
     }))
 }
