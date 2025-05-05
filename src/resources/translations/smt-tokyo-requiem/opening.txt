@@ -1,0 +1,44 @@
+﻿{
+- Everything was
+- plastered with darkness.
+- It seemed my will alone drifted through
+- that directionless abyss.
+- As if dozing off,
+- keeping the course,
+- making indecision seem
+- a pleasant thought.
+- Yet,
+- from across the darkness
+- came someone's voice.
+- 
+- Voice:
+- "Return.
+- This isn't somewhere you
+- should come to just yet.
+- Are you lost?
+- In that case, I'll show you the way.
+- Now...
+- Your name is...?"
+- Name Registration: YOUR NAME
+- (Input Protagonist Name)
+- 
+- (Protagonist Name):
+- "I....
+- I'm,
+- (Protagonist Name)."
+- 
+- Voice:
+- "Then, (Protagonist Name),
+- you must return to the world
+- where you belong.
+- For that, first...
+- you must clearly reenvision
+- your existence itself.
+- Just what sort of a being where you...?
+- Come, try to look back and see."
+- 
+- (Distribute 10 parameter points)
+- "It seems you've gotten ahold of yourself.
+- Then, go.
+- Towards your journey..."
+}

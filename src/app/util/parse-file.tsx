@@ -1,13 +1,12 @@
 export const blocks_about = ParseFile('src/resources/about/example.txt')
 export const blocks_translations = ParseFile('src/resources/translations/example.txt')
 export const blocks_projects = ParseFile('src/resources/projects/example.txt')
-export const chapter_list_smttr = GetFileNames('src/resources/translations/smt-tokyo-requiem')
 console.log(blocks_about)
 console.log(blocks_translations)
 console.log(blocks_projects)
 
-
-function ParseFile(filepath: string) {
+// Returns a list of blocks, each block is a list of lines, each line is a list of [delimiter, text]
+export function ParseFile(filepath: string) {
     console.log("pre file system call")
     try {
         const fs = require('fs')
@@ -30,7 +29,7 @@ function ParseFile(filepath: string) {
                 }
                 continue
             }
-            while (line[index] != " ") {
+            while (line[index] != " " && index < line.length) {
                 index += 1
             }
             const delim = line.slice(0, index)
@@ -38,15 +37,13 @@ function ParseFile(filepath: string) {
             console.log(line)
             block.push([delim, remain])
         }
-
-        console.log(blocks)
         return blocks
     } catch (err) {
         console.error(err)
     }
 }
 
-function GetFileNames(filepath: string) {
+export function GetFileNames(filepath: string) {
     const fs = require('fs')
     const data = fs.readdirSync(filepath)
     let files = []

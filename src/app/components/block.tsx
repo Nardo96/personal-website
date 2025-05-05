@@ -41,6 +41,6 @@ export function BlockLineHelper({line, mapper}) {
         return <div className = {pageStyling + " " + "mb-4"}>{line[1]}</div>
     }
     else {
-        return <div>{line[1]}</div>
+        return <div className = "min-h-6">{line[1]}</div>
     }
 }

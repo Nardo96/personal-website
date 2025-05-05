@@ -1,17 +1,25 @@
-import { chapter_list_smttr } from "@/app/util/parse-file"
+import { GetFileNames } from "@/app/util/parse-file"
+import {ParseFile} from "@/app/util/parse-file"
+import Block from "@/app/components/block"
+
 export async function generateStaticParams() {
-   
-    return chapter_list_smttr.map(([key, value]) => ({
-      slug: value,
-    }))
+    const chapter_list_smttr = GetFileNames('src/resources/translations/smt-tokyo-requiem')
+    return chapter_list_smttr.map((chapter) => ({chapter: chapter}))
 }
 
 export default async function Page({
     params,
   }: {
-    params: [{ slug: string }]
+    params: [{ chapter: string }]
   }) {
     const results = await params
-    console.log(results)
-    return <div>My Post: {results["chapter"]}</div>
+    let slug = results["chapter"]
+    const blocks = ParseFile(`src/resources/translations/smt-tokyo-requiem/` + `${slug}`+'.txt')
+    return (
+        <div>
+            {blocks.map((block, index) => (
+                <Block block={block} key={index} mapperString={"translations"}/>
+            ))}
+        </div>
+    )
   }
