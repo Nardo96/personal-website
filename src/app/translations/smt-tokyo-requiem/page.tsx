@@ -4,6 +4,7 @@ export default function BookPage() {
         <>
             <h1 className="text-center font-bold text-2xl mb-4">Shin Megami Tensei: Tokyo Requiem</h1>
             <Image src="/TokyoRequiem_title.webp" alt="Tokyo Requiem Title Screen (source: https://megamitensei.fandom.com/wiki/Shin_Megami_Tensei:_Tokyo_Requiem?file=TokyoRequiem_Title.jpg)" width={500} height={500} className="mx-auto mb-4"/>
+            <p className="text-justify mb-4">A fan translation of the game Shin Megami Tensei: Tokyo Requiem, a fairly old, obscure, and inaccessible phone game from Japan. This is the first text I've ever translated, and looking back, it's in heavy need of editing.  A lot of it doesn't read like good English, due to odd sentence word orders or other artifacts from direct translation from Japanese. I had an insistence on maintaining parity with the original source phrase instead of creating a wholly new english sentence with a similar informational and emotional impact - something to work on for my next translation.</p>
             <div className="flex flex-col gap-4">
                 <a href="/translations/smt-tokyo-requiem/prologue-site-version">Prologue - Site Version</a>
                 <a href="/translations/smt-tokyo-requiem/prologue-game-version">Prologue - Game Version</a>

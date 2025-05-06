@@ -1,5 +1,6 @@
 import { GetFileNames } from "@/app/util/parse-file"
 import {ParseFile} from "@/app/util/parse-file"
+import PageParse from "@/app/components/page-parse"
 import Block from "@/app/components/block"
 
 export async function generateStaticParams() {
@@ -16,10 +17,8 @@ export default async function Page({
     let slug = results["chapter"]
     const blocks = ParseFile(`src/resources/translations/smt-tokyo-requiem/` + `${slug}`+'.txt')
     return (
-        <div>
-            {blocks.map((block, index) => (
-                <Block block={block} key={index} mapperString={"translations"}/>
-            ))}
-        </div>
+        <>
+            <PageParse blocks={blocks} mapper="translations"/>
+        </>
     )
   }
