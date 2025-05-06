@@ -15,7 +15,7 @@ export default function BookPage() {
                     <>
                         {
                         chapter_filename_list_smttr.map((filename) => (
-                            <Link href={"smt-tokyo-requiem/" + filename.split(".")[0]} key={filename}>{filename.replaceAll("_", "").replaceAll("-", " ").charAt(0).toUpperCase() + filename.replaceAll("_", "").replaceAll("-", " ").slice(1).split(".")[0]}</Link>
+                            <Link href={"smt-tokyo-requiem/" + filename.split(".")[0]} key={filename}>{cleanFilename(filename)}</Link>
                             ))
                         }
                     </>
@@ -23,4 +23,20 @@ export default function BookPage() {
             </div>
         </>
     )
+}
+
+function cleanFilename(filename: string) {
+    // Eliminate underscores and replace dashes with spaces
+    filename = filename.replaceAll("_", "").replaceAll("-", " ")
+    let words = filename.split(" ")
+    for (let word in words){
+        // Capitalize the first letter of each word
+        words[word] = words[word].charAt(0).toUpperCase() + words[word].slice(1)
+    }
+    // Join the words back together
+    filename = words.join(" ")
+    // Remove the file extension
+    filename = filename.split(".")[0]
+
+    return filename
 }
