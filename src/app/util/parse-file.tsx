@@ -1,7 +1,8 @@
 export const blocks_about = ParseFile('src/resources/about/example.txt')
 export const blocks_translations = ParseFile('src/resources/translations/example.txt')
 export const blocks_projects = ParseFile('src/resources/projects/example.txt')
-export const chapter_list_smttr = GetFileNames('src/resources/translations/smt-tokyo-requiem')
+export const chapter_filename_list_smttr = GetFileNames('src/resources/translations/smt-tokyo-requiem')
+export const  chapter_fileparse_list_smttr = parseFiles('src/resources/translations/smt-tokyo-requiem/', chapter_filename_list_smttr)
 
 // Returns a list of blocks, each block is a list of lines, each line is a list of [delimiter, text]
 export function ParseFile(filepath: string) {
@@ -54,4 +55,20 @@ export function GetFileNames(filepath: string) {
     }
     console.log(files)
     return files
+}
+
+export function getSubfolders(filepath: string) {
+    const fs = require('fs')
+    return fs.readdirSync(filepath, { withFileTypes: true })
+      .filter(dirent => dirent.isDirectory())
+      .map(dirent => dirent.name);
+  }
+
+export function parseFiles(filepath:string, fileNames: string[]) {
+    let filesParses = []
+    for (const file of fileNames) {
+        const data = ParseFile(filepath + file)
+        filesParses.push(data)
+    }
+    return filesParses
 }

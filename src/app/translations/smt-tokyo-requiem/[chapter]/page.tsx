@@ -1,10 +1,9 @@
-import { ParseFile } from "@/app/util/parse-file"
-import { chapter_list_smttr } from "@/app/util/parse-file"
+import {chapter_filename_list_smttr, chapter_fileparse_list_smttr} from "@/app/util/parse-file"
 import PageParse from "@/app/components/page-parse"
 import Link from "next/link"
 
 export async function generateStaticParams() {
-    return chapter_list_smttr.map(() => ({}))
+    return chapter_filename_list_smttr.map(() => ({}))
 }
 
 export default async function Page({
@@ -15,12 +14,11 @@ export default async function Page({
     const results = await params
     let slug = results["chapter"]
     // Find the index of the current page
-    const index = chapter_list_smttr.findIndex((chapter) => chapter === slug + '.txt')
-    const blocks = ParseFile(`src/resources/translations/smt-tokyo-requiem/` + `${slug}`+'.txt')
-
+    const index = chapter_filename_list_smttr.findIndex((chapter) => chapter === slug + '.txt')
+    const blocks = chapter_fileparse_list_smttr[index]
     // Items this list return in the form of [chapter].txt
-    let prevFilePath = chapter_list_smttr[index-1]
-    let nextFilePath = chapter_list_smttr[index+1]
+    let prevFilePath = chapter_filename_list_smttr[index-1]
+    let nextFilePath = chapter_filename_list_smttr[index+1]
     return (
         <>
             <PageParse blocks={blocks} mapper="translations"/>
@@ -29,7 +27,7 @@ export default async function Page({
                     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"> 
                     </button>
                 </Link>
-                <Link href={index < chapter_list_smttr.length - 1 ? nextFilePath.split(".")[0] : "."}>
+                <Link href={index < chapter_filename_list_smttr.length - 1 ? nextFilePath.split(".")[0] : "."}>
                     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"> 
                     </button>
                 </Link>

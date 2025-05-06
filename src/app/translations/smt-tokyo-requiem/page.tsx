@@ -1,4 +1,7 @@
 import Image from "next/image"
+import { chapter_filename_list_smttr} from "@/app/util/parse-file"
+import Link from "next/link"
+
 export default function BookPage() {
     return (
         <>
@@ -9,15 +12,13 @@ export default function BookPage() {
                 <p className="text-justify">Additionally, I will note that I kept the format of the source material, which relied heavily on newlines and including only a short phrase or two per line. I assume this was a conscious decision due to limited screen size on a phone.</p>
                 <div className="flex flex-col gap-4 items-center justify-items-center mt-20">
                     <h1 className="text-center mb-4 text-xl font-bold">Table of Contents</h1>
-                    <a href="/translations/smt-tokyo-requiem/__prologue-site-version">Prologue - Site Version</a>
-                    <a href="/translations/smt-tokyo-requiem/__prologue-game-version">Prologue - Game Version</a>
-                    <a href="/translations/smt-tokyo-requiem/_opening">Opening</a>
-                    <a href="/translations/smt-tokyo-requiem/chapter-1">Chapter 1</a>
-                    <a href="/translations/smt-tokyo-requiem/chapter-2">Chapter 2</a>
-                    <a href="/translations/smt-tokyo-requiem/chapter-3">Chapter 3</a>
-                    <a href="/translations/smt-tokyo-requiem/chapter-4">Chapter 4</a>
-                    <a href="/translations/smt-tokyo-requiem/chapter-5">Chapter 5</a>
-                    <a href="/translations/smt-tokyo-requiem/chapter-6">Chapter 6</a>
+                    <>
+                        {
+                        chapter_filename_list_smttr.map((filename) => (
+                            <Link href={"smt-tokyo-requiem/" + filename.split(".")[0]} key={filename}>{filename.replaceAll("_", "").replaceAll("-", " ").charAt(0).toUpperCase() + filename.replaceAll("_", "").replaceAll("-", " ").slice(1).split(".")[0]}</Link>
+                            ))
+                        }
+                    </>
                 </div>
             </div>
         </>
