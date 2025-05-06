@@ -1,0 +1,792 @@
+﻿{
+# Chapter 6
+- -B3F-
+- 
+- Bartender:
+- "This'll be the final camp.
+- If you can get to the first floor from here,
+- it looks like you'll be able to escape the building...
+- The enemies from here on out aren't small fry, 
+- so make sure to properly prepare your equipment.
+- There's armor with built-in resistances too -
+- the trick is to choose armor to deal with
+- a wide variety of attacks."
+- 
+- -1F-
+- 
+- LAW Route
+- 
+- A dazzling light
+- lit up my surroundings as bright as midday.
+- Archangel Michael,
+- cloaked in a godly aura,
+- stood there.
+- 
+- Michael:
+- "You have done well to come thus far.
+- Even the heavens look over your deeds.
+- Such being the case, about Lilith...
+- How is this?
+- If you continue to fight for our sake, 
+- to take the path of light made manifest by His grace, then...
+- By the power of God, I shall bestow salvation upon Lilith."
+- (Protagonist Name):
+- "...R-Really?!"
+- Michael:
+- "Truly.
+- God will never abandon
+- those lambs who stride the righteous path.
+- He will purge those foolish enough to be drawn to darkness,
+- bring salvation to this dying world, and restore the proper order.
+- Come, vow to fight together with us."
+- 
+- [Choose]
+- ・I will fight for God.
+- ・A human has no right to judge other humans.
+- 
+- If 'I will fight for God.' is chosen:
+- (Protagonist Name):
+- "... Yes.
+- I will fight for God."
+- 
+- Hearing that response, 
+- Michael nodded, satisfied.
+- 
+- Michael:
+- "Then, go forth.
+- The providence of heaven is always looking over you!"
+- 
+- Feeling the radiance of heaven on my back,
+- I stepped forth, a warrior of light...
+- (Final aligment is locked to LAW)
+- 
+- If 'A human has no right to judge other humans.' is chosen:
+- (Protagonist Name):
+- "But...
+- A human has no right to judge other humans.
+- I don't mean to be an ally to demons, but...
+- As to whether it's the right thing
+- to lead humans to be judged by the will of God...
+- I still don't know."
+- 
+- Hearing that response, 
+- A disappointed expression appeared on Michael's face.
+- 
+- Michael:
+- "Such folly...
+- For a human born of God to follow His will
+- and preserve order is undoubtedly the righteous path.
+- But, 
+- To herd those lost, wandering lambs of God,
+- is a task that falls upon us angels.
+- It is not yet too late.
+- Until you correct your thoughts and begin to repent,
+- I shall briefly remain here."
+- 
+- Having said so, 
+- he disappeared into the light.
+- 
+- -1F Gate-
+- 
+- The hall I was in had a tall ceiling, 
+- and the gate visible in front was...
+- the entrance!
+- An exit to get out of this building!
+- I had finally come that far -
+- I felt a heat well up inside me.
+- .... Then.
+- A single silhouette stood at the front.
+- That supple, graceful body.
+- That glossy, long hair.
+- Those beautiful, sagacious eyes.
+- And those seductive - licentious, even - lips...
+- 
+- (Protagonist Name):
+- "... Lilith..."
+- Lilith:
+- "We've finally come this far, haven't we..."
+- (Protagonist Name):
+- "Lilith - no, (Heroine Name)...
+- I came to get you.
+- Let's leave together."
+- Lilith:
+- "I can't.
+- I'm a demon...
+- I can't be together with you..."
+- (Protagonist Name):
+- "If we rely on the Archangels' help...
+- The power of God will definitely save you!
+- ... It's going to be okay, believe me."
+- 
+- Lilith shook her head.
+- 
+- Lilith:
+- "No.
+- That won't happen.
+- I am a demon.
+- The salvation God would grant a demon,
+- is oblivion only."
+- (Protagonist Name):
+- "... Huh...?"
+- Lilith:
+- "You see... I made a pact with Satan.
+- A pact to draw you to the demons' side.
+- But your heart was drawn to light instead.
+- Leaving me all alone!!
+- Please! Please, don't go...
+- Stay here, together with me..."
+- 
+- Lilith's body started to creak and groan
+- as it swelled and changed shape...
+- In the end,
+- what appeared 
+- could not have been called Lilith.
+- 
+- ?:
+- "Let us drift eternally
+- within the unfathomable depths of darkness.
+- I won't let go again..."
+- (Protagonist Name):
+- "(Heroine Name)... you..."
+- ?:
+- "That's... why...
+- I'll... eat it all up...
+- ... all of your soul!!"
+- (Protagonist Name):
+- "What's wrong?!
+- (Heroine Name)!
+- No.... No way...!!"
+- 
+- One Femme (Heroine Name) appeared.
+- 
+- -Ending-
+- 
+- Why
+- must I suffer to this point, 
+- cycling again and again
+- through such scenes of despair?
+- 
+- (Protagonist Name):
+- "Lilith-
+- No...
+- (Heroine Name)...
+- (Heroine Name)...!"
+- (Heroine Name):
+- "Ugh....
+- (Protagonist Name)..."
+- 
+- It was almost as if the one
+- who lay dying in my arms
+- wasn't the demon Lilith,
+- but rather that dear young woman
+- who I left forever parted
+- the day of Tokyo's nuclear conflagration.
+- 
+- (Heroine Name):
+- "No-
+- I'm scared...
+- No... no...
+- I don't want to die...!"
+- (Protagonist Name):
+- "(Heroine Name)...
+- At least...
+- At least... within my arms..."
+- 
+- That moment,
+- a dazzling light 
+- enveloped their bodies.
+- As if washing away 
+- the miasma of darkness that covered her,
+- the light gently
+- shined upon her cheek.
+- 
+- (Heroine Name):
+- "Wha- 
+- ... I'm..."
+- (Protagonist Name):
+- "... Your sins..."
+- (Heroine Name):
+- "(Protagonist Name)...
+- I..."
+- (Protagonist Name):
+- "... are being purified..."
+- (Protagonist Name):
+- "(Heroine Name),
+- you're -
+- you're free..."
+- 
+- That warm, dazzling white light
+- slowly grew bit by bit,
+- until eventually even opening my eyes
+- had become a difficult task.
+- The instant that shine 
+- dazzled even brighter,
+- I closed my eyes.
+- 
+- (Heroine Name):
+- "(Protagonist Name)...
+- Good... bye..."
+- (Protagonist Name):
+- "Rest peacefully...
+- (Heroine Name)..."
+- 
+- The vortex of light abated,
+- and as my surroundings once again
+- filled with tranquility and stillness, 
+- the young woman lying in my arms
+- disappeared without a trace.
+- MORS CERTA
+- ET HORA INCERTA
+- Death is certain,
+- and its call,
+-  uncertain,
+- or so it's said in Latin.
+- Each and every living being
+- will eventually return to the side of the Lord.
+- There exists none who violate this order,
+- nor is the day of rapture
+- knowable to human minds.
+- Born a human,
+- and reborn a demon...
+- And once more,
+- as a human,
+- she returned to God.
+- Such a tumultous fate
+- was also set by
+- the exalted grace of God.
+- When I thought of that noble soul,
+- cleansed of filth and impurity,
+- I was gripped with the need to pray.
+- 
+- (Protagonist Name):
+- "That her soul
+- strays not from the righteous path.
+- That she is bestowed the providence of God.
+- And.
+- That she finds peace for all eternity -
+- I pray."
+- 
+- <END>
+- 
+- NEUTRAL Route
+- 
+- Lucifer:
+- "Hello there, I hope you've been well."
+- 
+- Lucifer stood there,
+- grinning all the while.
+- 
+- Lucifer:
+- "You've done well to get this far.
+- Not bad, not bad."
+- (Protagonist Name):
+- "Yeah, somehow."
+- Lucifer:
+- "... So.
+- Have you come to a decision?"
+- (Protagonist Name):
+- "Huh?"
+- Lucifer:
+- "You know, about Lilith.
+- You've finally come this far...
+- Only you can save her at this point.
+- Your choice 
+- will determine the culmination of your fates.
+- Are you prepared for that?"
+- (Protagonist Name):
+- "That..."
+- 
+- [Choose]
+- ・I understand. I'll judge for myself.
+- ・Maybe there's some other way...
+- 
+- If 'I understand. I'll judge for myself."　is chosen:
+- (Protagonist Name):
+- "I understand.
+- I'll judge for myself."
+- 
+- Hearing that response, 
+- Lucifer let out a laugh like the Cheshire Cat.
+- 
+- Lucifer:
+- "Will you side with God, side with demons,
+- or cut through it all with your own strength?
+- The answer lies within you."
+- 
+- (Protagonist Name):
+- "The fate of Lilith and I...
+- I'll decide it for myself."
+- Lucifer:
+- "Then, go on.
+- She's waiting for you."
+- 
+- Lucifer sent me off as I,
+- with my own strength, stepped forward...
+- (Final alignment will be set
+- to current alignment. To select the NEUTRAL route, 
+- Set the protagonist's alignment to NEUTRAL beforehand.)
+- 
+- If 'Maybe there's some other way...'　is chosen:
+- (Protagonist Name):
+- "Maybe there's some other way...
+- Plus... is fate really something
+- that humans can set and change 
+- at will?"
+- 
+- Hearing that response, 
+- Lucifer let out a laugh like the Cheshire Cat.
+- 
+- Lucifer:
+- "It looks like you're still hesitating, yes?
+- "Then, until you arrive at your conclusion, 
+- I'll be waiting here."
+- 
+- Having said so, 
+- he disappeared.
+- 
+- -1F Gate-
+- 
+- The hall I was in had a tall ceiling, 
+- and the gate visible in front was...
+- the entrance!
+- An exit to get out of this building!
+- I had finally come that far -
+- I felt a heat well up inside me.
+- .... Then.
+- A single silhouette stood at the front.
+- That supple, graceful body.
+- That glossy, long hair.
+- Those beautiful, sagacious eyes.
+- And those seductive - licentious, even - lips...
+- 
+- (Protagonist Name):
+- "... Lilith..."
+- Lilith:
+- "We've finally come this far, haven't we..."
+- (Protagonist Name):
+- "Lilith - no, (Heroine Name)...
+- I came to get you.
+- Let's leave together."
+- Lilith:
+- "I can't.
+- You see... I made a pact with Satan.
+- I can't go together with you."
+- (Protagonist Name):
+- "I don't care even if you're a demon!
+- What really matters is your heart.
+- Whether Satan or whoever, I'll beat them all for you!"
+- Lilith:
+- "(Protagonist Name)..."
+- (Protagonist Name):
+- "... It's going to be okay, believe me."
+- 
+- Yet,
+- Lilith showed a sorrowful expression.
+- 
+- Lilith:
+- "Do you really understand what it means
+- to destroy Satan?"
+- (Protagonist Name):
+- "(Heroine Name)...?"
+- Lilith:
+- "Even if you do manage to defeat Satan, 
+- I am bound as a contractor,
+- and will meet the same fate...
+- Moreover, I took a vow.
+- A vow to draw you to the demons' side.
+- If I can't, only destruction awaits me...
+- But there is one way..."
+- (Protagonist Name):
+- "What is it?
+- Tell me, (Heroine Name)!"
+- 
+- But then Lilith, on the verge of speaking, 
+- was swathed in an ominous light, 
+- her figure undergoing a terrifying change.
+- 
+- ?:
+- "Your soul... if I were to consume it...
+- If I did, we could live together as the same demon!"
+- (Protagonist Name):
+- "Hey- (Heroine Name)!
+- Wait! Please, wait!!"
+- 
+- One Femme (Heroine Name) appeared.
+- 
+- -Ending-
+- 
+- Why
+- must I suffer to this point, 
+- cycling again and again
+- through such scenes of despair?
+- 
+- (Protagonist Name):
+- "Lilith-
+- No...
+- (Heroine Name)...
+- (Heroine Name)...!"
+- (Heroine Name):
+- "Ugh....
+- (Protagonist Name)..."
+- 
+- It was almost as if the one
+- who lay dying in my arms
+- wasn't the demon Lilith,
+- but rather that dear young woman
+- who I left forever parted
+- the day of Tokyo's nuclear conflagration.
+- 
+- (Heroine Name):
+- "(Protagonist Name)...
+- I could at least 
+- die within your arms...
+- I..."
+- (Protagonist Name):
+- "No-
+- Don't die, (Heroine Name)!
+- Not you...!"
+- 
+- That moment,
+- a dazzling light 
+- enveloped her body.
+- 
+- (Heroine Name):
+- "I'm glad...
+- Finally, in the end...
+- I could return...
+- to being a human..."
+- 
+- That warm, dazzling white light
+- slowly grew bit by bit,
+- until eventually even opening my eyes
+- had become a difficult task.
+- The instant that shine 
+- dazzled even brighter,
+- I closed my eyes.
+- 
+- (Heroine Name):
+- "(Protagonist Name)...
+- Thank... you..."
+- (Protagonist Name):
+- "(Heroine Name)!!"
+- 
+- The vortex of light abated,
+- and as my surroundings 
+- once again filled
+- with tranquility and stillness, 
+- the young woman lying in my arms
+- disappeared without a trace.
+- Defeated by our battle,
+- Lilith return to her former self -
+- she returned to being (Heroine Name).
+- She was smiling.
+- And while smiling at me,
+- she told me, "Thank you."
+- I don't know if a human who's
+- exchanged oaths with a demon
+- can return to being human.
+- But.
+- In that moment of death,
+- at heart, she was undoubtedly...
+- no longer Lilith.
+- She was exactly how (Heroine Name) used to be.
+- 
+- (Protagonist Name):
+- "It's...
+- It's better this way, right...?"
+- 
+- I questioned no one in particular,
+- nor was there any response.
+- Each and every living being
+- will eventually return to dust.
+- There exists none who violate this order,
+- while those who are left,
+- cannot bring themselves to forsake living.
+- Yet, precisely because of that,
+- I will not regret.
+- Not that I continue to live,
+- nor that I lost her.
+- I will not regret.
+- The path she chose,
+- as well as the path
+- I myself grasped, 
+- were both the best choices we could make.
+- If I don't believe that,
+- I won't be able to continue any further.
+- In the end, humans
+- are that sort of creature.
+- 
+- <END>
+- 
+- CHAOS Route
+- 
+- A freezing darkness surged forth, 
+- enveloping my surroundings.
+- Satan, 
+- cloaked in a jet black mantle,
+- stood there.
+- 
+- Satan:
+- "You have done well to come this far.
+- A good show, indeed.
+- Accordingly, I bring a proposition.
+- How about it?
+- Won't you try joining hands with demons,
+- and use your strength for our sake?
+- If you do so...
+- I shall grant you that woman."
+- (Protagonist Name):
+- "...L-Lilith?!"
+- Satan:
+- "That's right.
+- You may treat her as you please.
+- You'll be able to return to how it was before.
+- As one aligned with demons,
+- that is."
+- (Protagonist Name):
+- "......"
+- Satan:
+- "What will you choose, I wonder?"
+- 
+- [Choose]
+- ・I understand. I'll side with demons.
+- ・I want to stay a human.
+- 
+- If 'I understand. I'll side with demons.' is chosen:
+- (Protagonist Name):
+- "I understand.
+- I'll side with demons."
+- 
+- Hearing that response, 
+- Satan nodded with satisfaction.
+- 
+- (Protagonist Name):
+- "With this, Lilith with really be free, right?"
+- Satan:
+- "Demons will not err from a contract.
+- ...Then, go forth.
+- Us demons will spare no effort in assisting you."
+- 
+- Feeling the chill of darkness on my back,
+- I stepped forth, a demon warrior...
+- (Final alignment set to CHAOS)
+- 
+- If 'I want to stay a human.' is chosen:
+- (Protagonist Name):
+- "I want to stay a human...
+- I want to let Lilith free, but...
+- If that means throwing away my humanity...
+- Moreover, I can't trust that
+- you'll really uphold your end of the bargain."
+- 
+- Hearing that response, 
+- an eerie smile floated up Satan's face.
+- 
+- Satan:
+- "A pair of star-crossed lovers, finally about to become one, 
+- and yet you fuss about staying human...
+- I cannot understand it, but very well.
+- There is no need for concern.
+- A demon's oath is absolute.
+- Even I am no exception to that rule.
+- Seeing as you are unable to come to a decision, 
+- I shall briefly remain here."
+- 
+- Having said so, 
+- he disappeared into the dark.
+- 
+- -1F Gate-
+- 
+- The hall I was in had a tall ceiling, 
+- and the gate visible in front was...
+- the entrance!
+- An exit to get out of this building!
+- I had finally come that far -
+- I felt a heat well up inside me.
+- .... Then.
+- A single silhouette stood at the front.
+- That supple, graceful body.
+- That glossy, long hair.
+- Those beautiful, sagacious eyes.
+- And those seductive - licentious, even - lips...
+- 
+- (Protagonist Name):
+- "... Lilith..."
+- Lilith:
+- "We've finally come this far, haven't we..."
+- (Protagonist Name):
+- "Lilith - no, (Heroine Name)...
+- I'll also contract with Satan.
+- I won't let you go alone."
+- (Protagonist Name):
+- "From now on, we'll always be together..."
+- Lilith:
+- "Really...?"
+- (Protagonist Name):
+- "Really.
+- I won't back out anymore."
+- 
+- A look of hesitation appeared on Lilith's face.
+- Then,
+- she started looking at me with sorrowful eyes.
+- 
+- Lilith:
+- "I can't go.
+- In the end...
+- I can't go together with you."
+- (Protagonist Name):
+- "W-what?!
+- Why?!"
+- Lilith:
+- "It's certainly true that with this, 
+- in accordance with my oath to Lord Satan, 
+- I managed to draw you into the darkness...
+- Moreover, just as Lord Satan vowed to me, 
+- we can be joined together for eternity.
+- But..."
+- (Protagonist Name):
+- "What do you mean, 'But...'?!
+- (Heroine Name)!
+- We can finally be together!"
+- Lilith:
+- "Yeah.
+- That's how it should have been.
+- But... but..."
+- 
+- Shockingly clear tears
+- trickled down Lilith's face.
+- 
+- Lilith:
+- "... I just got it now.
+- That this was a mistake...
+- I changed you...
+- You're no longer
+- the (Protagonist Name) I know."
+- (Protagonist Name):
+- "No way!
+- This is the me you wanted me to be!
+- No matter how much I change, I'll always be myself!"
+- Lilith:
+- "No!
+- I should have been the only one to fall...
+- All of this is my fault..."
+- 
+- As soon as she said so, lightning rushed down from the firmament,
+- enveloping Lilith's body with a holy aura,
+- and eliciting a transformation into the form of empyrean light.
+- 
+- ?:
+- "So, at least...
+- I'll save you...
+- I'll save your soul!!"
+- (Protagonist Name):
+- "Don't screw with me, (Heroine Name)! 
+- I depraved myself for you...
+- and you're... gonna betray me?!!"
+- 
+- One Femme (Heroine Name) appeared.
+- 
+- -Ending-
+- 
+- When I made up my mind, 
+- I didn't have a shred of hesitation.
+- Lilith's eyes, wet from tears of love, 
+- opened up widely...
+- and warped.
+- That fallen young woman, 
+- at death's door from severe injuries, 
+- tried to stand up
+- all the same.
+- But, those injuries must have be hurting.
+- While pressing down on her side, 
+- she curled her body small
+- on top of the floor.
+- 
+- Lilith:
+- "Ugh-... Nn-..."
+- 
+- I couldn't let my guard down just yet.
+- The woman anguishing in front of me
+- was Fallen Lilith, one who
+- contracted with Satan, was reborn, 
+- and obtained power unknown to man.
+- Until the black light of life was extinguished,
+- I couldn't relax.
+- 
+- (Protagonist Name):
+- "Does it hurt... Lilith?"
+- Lilith:
+- "...Ugh-....
+- "(Protagonist Name)...
+- you can't...
+- go...
+- you're..."
+- (Protagonist Name):
+- "Uh huh...
+- so it hurts..."
+- Lilith:
+- "Aaah-!"
+- 
+- I saw Lilith's stomach rise and fall
+- from her weak breaths,
+- and dispassionately, I stepped on it.
+- A line of blood 
+- roughly overflowed
+- from the corner of her mouth.
+- 
+- (Protagonist Name):
+- "At the very least, I'll give you a parting gift.
+- I will end
+- your suffering."
+- Lilith:
+- "Stop...
+- Any more than this, and you'll..."
+- (Protagonist Name):
+- "Sleep. Forever."
+- 
+- "... Your sins...
+- ... please... no more..."
+- That hoarse, tragic voice held no power, 
+- and with an ominous, final quiver, 
+- her pulse disappeared.
+- Not a single person remained
+- to see that final, clear tear
+- stream down the face
+- of that departed woman.
+- Good exists on one side of the coin,
+- and on the other,
+- evil.
+- But, 
+- There are not many who can clearly demarcate
+- the line between these two extremes.
+- Depending on the times, the subject,
+- and the circumstances surrounding them, 
+- the same thing
+- could be judged as both good or evil.
+- But, 
+- whichever age,
+- whichever subject,
+- in all things, there exists 
+- only one absolute.
+- Overwhelming power.
+- Alongside
+- the bottomless desire
+- that will serve
+- as the source of that power.
+- 
+- (Protagonist Name):
+- "That's right...
+- What rules over this world
+- is strength and desire.
+- Craving
+- controls the hearts of man,
+- who in turn
+- seek power.
+- And only those who obtain that power
+- gain the right to grant their own desires.
+- One who's obtained it all -
+- that
+- is me."
+- 
+- <END>
+}

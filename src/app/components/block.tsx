@@ -26,6 +26,9 @@ export function BlockLineHelper({line, mapper}) {
     if (mapper === ProjectsMap) {
         pageStyling = "text-center"
     }
+    else if (mapper === TranslationsMap) {
+        pageStyling = "text-center mb-12 text-xl"
+    }
     let type = mapper.get(line[0])
     if (type == "Bullet Point") {
         return <li className={"list-disc list-inside"}>{line[1]}</li>
@@ -41,6 +44,6 @@ export function BlockLineHelper({line, mapper}) {
         return <div className = {pageStyling + " " + "mb-4"}>{line[1]}</div>
     }
     else {
-        return <div>{line[1]}</div>
+        return <div className = "min-h-6">{line[1]}</div>
     }
 }
