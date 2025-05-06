@@ -2,15 +2,53 @@
 # Associate Software Engineer
 ## Capital One
 @ Richmond, Virginia
-@@ 2/10/2025 - Current
-- lorem ipsum lorem, lorem something ipsum, bla
-- Ensured x by acclimating policy y to an atmosphere of 32 degrees celsius to generate over 300 gorillion rupees
+@@ February 2025 - Current
+- Worked to support the core business critical wire processing application
+- Used Java Spring Boot and Oracle SQL to maintain and enhance essential microservices, becoming an SME for several
+- Led discovery, planning, and implementation work necessary to fulfill enterprise tech backlog item requirements as well as new business initiative requirements
 }
 
 {
 # Business Operations Analyst
 ## LexisNexis Risk Solutions
 @ Tampa, FL
-@@ 8/15/2022 - 5/31/2024
-- Random point
+@@ August 2022 - May 2024
+- Utilized Microsoft SQL Server to perform analytics on a core database product and identify gaps, discrepancies, and possible enhancements to ensure the data meets quality standards
+- Became a subject matter expert on a core database product to provide resolutions to content and policy-related inquiries from sales, clients, and other departments regarding the database
+- Supervised three offshore research centers in EMEA countries by monitoring and ensuring productivity and quality assurance standards, clarifying policies and standards, and coordinating projects and meetings to optimize operational efficiency
+- Processed a variety of reports to maintain the quality of existing operations processes and monitor trends for management
+}
+
+{
+# Drawback Analyst
+## Alliance Drawback Services
+@ St. Petersburg, FL
+@@ October 2020 - March 2022
+- Managed a book of 20 clients through the drawback process of implementation, analysis, cleaning, and claim filing to recover over $12,500,000 in taxes and fees paid to Customs and Border Protection
+- Learned and followed CFR Title 19 Chapter 1 Part 190 which describes federal regulations on the modernized drawback process for the refund of Customs duties and fees
+- Analyzed import, export, bill of material, and other related data for accuracy and projected recovery to create revenue maximized claims compliant with the chosen filing provisions
+- Managed and attended meetings with clients; communicated with client points of contact to gather required elements needed to prepare and submit drawback claims; corresponded with clients in a professional, thorough, accurate, concise, and timely manner
+- Completed document audits, kept notes on all account processes, and developed standard operating procedures for each account
+}
+
+{
+# Customer Service Agent
+## Kforce for Florida Department of Economic Opportunity
+@ Tampa, FL
+@@ July 2020 - September 2020
+- Navigated through multiple platforms and resource bases while amicably and effectively guiding conversations to resolve client issues in a quick and efficient manner
+- Recorded detailed and concise notations on client accounts to reflect up-to-date circumstances to assist other agents in effectively helping clients
+- Clearly communicated with different agents and supervisors to understand client needs and transfer to appropriate teams when necessary
+- Provided bilingual support to English and Spanish speaking clients
+}
+
+{
+# Graduate Teaching Assistant
+## University of Maryland
+@ College Park, MD
+@@ July 2019 - January 2020
+- Proctored exams to large groups of students while ensuring test-taking guidelines were followed
+- Supported personal judgement with guidelines to ensure consistent grading over hundreds of exams, inputted grades into Excel, and safely archived past exams
+- Hosted office hours to provide effective one-on-one instructions to students
+- Attended lecture to keep current on relevant knowledge and assist when needed
 }

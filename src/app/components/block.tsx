@@ -41,9 +41,12 @@ export function BlockLineHelper({line, mapper}) {
 
     }
     else if (type == "Git Repo") {
-        return <div className = {pageStyling + " " + "mb-4"}>{line[1]}</div>
+        return <div className={pageStyling + " " + "mb-4"}>{line[1]}</div>
+    }
+    else if (type == "Date Range") {
+        return <div className="mb-2">{line[1]}</div>
     }
     else {
-        return <div className = "min-h-6">{line[1]}</div>
+        return <div className="min-h-6">{line[1]}</div>
     }
 }
