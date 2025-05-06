@@ -1,11 +1,10 @@
-import { GetFileNames } from "@/app/util/parse-file"
-import {ParseFile} from "@/app/util/parse-file"
+import { ParseFile } from "@/app/util/parse-file"
+import { chapter_list_smttr } from "@/app/util/parse-file"
 import PageParse from "@/app/components/page-parse"
-import Block from "@/app/components/block"
+import Link from "next/link"
 
 export async function generateStaticParams() {
-    const chapter_list_smttr = GetFileNames('src/resources/translations/smt-tokyo-requiem')
-    return chapter_list_smttr.map((chapter) => ({chapter: chapter}))
+    return chapter_list_smttr.map(() => ({}))
 }
 
 export default async function Page({
@@ -15,10 +14,26 @@ export default async function Page({
   }) {
     const results = await params
     let slug = results["chapter"]
+    // Find the index of the current page
+    const index = chapter_list_smttr.findIndex((chapter) => chapter === slug + '.txt')
     const blocks = ParseFile(`src/resources/translations/smt-tokyo-requiem/` + `${slug}`+'.txt')
+
+    // Items this list return in the form of [chapter].txt
+    let prevFilePath = chapter_list_smttr[index-1]
+    let nextFilePath = chapter_list_smttr[index+1]
     return (
         <>
             <PageParse blocks={blocks} mapper="translations"/>
+            <div className="flex flex-row justify-center">
+                <Link href={index > 0 ? prevFilePath.split(".")[0] : "."}>
+                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"> 
+                    </button>
+                </Link>
+                <Link href={index < chapter_list_smttr.length - 1 ? nextFilePath.split(".")[0] : "."}>
+                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"> 
+                    </button>
+                </Link>
+            </div>
         </>
     )
   }

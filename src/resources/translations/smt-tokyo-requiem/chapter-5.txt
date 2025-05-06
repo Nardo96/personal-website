@@ -329,4 +329,4 @@
 - Just a bit more.
 - Wait for me, (Heroine Name)...
 - I strengthed the grip on my fist.
-- }
+}
