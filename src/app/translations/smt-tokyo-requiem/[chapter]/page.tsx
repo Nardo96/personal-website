@@ -21,7 +21,9 @@ export default async function Page({
     let nextFilePath = chapter_filename_list_smttr[index+1]
     return (
         <>
-            <PageParse blocks={blocks} mapper="translations"/>
+            <div className="w-7/10 flex justify-center">
+                <PageParse blocks={blocks} mapper="translations"/>
+            </div>
             <div className="flex flex-row justify-center">
                 <Link href={index > 0 ? prevFilePath.split(".")[0] : "."}>
                     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"> 
