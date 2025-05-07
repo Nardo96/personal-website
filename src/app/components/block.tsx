@@ -1,9 +1,15 @@
-import { AboutMap, TranslationsMap, ProjectsMap } from "@/app/util/mappers"
+import { AboutJobsMap, AboutSkillsMap, AboutEducationMap, TranslationsMap, ProjectsMap } from "@/app/util/mappers"
 
 export default function Block({block, mapperString}) {
     let mapper
-    if (mapperString == 'about') {
-        mapper = AboutMap
+    if (mapperString == 'about-jobs') {
+        mapper = AboutJobsMap
+    }
+    else if (mapperString == "about-skills") {
+        mapper = AboutSkillsMap
+    }
+    else if (mapperString == "about-education") {
+        mapper = AboutEducationMap
     }
     else if (mapperString == "translations") {
         mapper = TranslationsMap
