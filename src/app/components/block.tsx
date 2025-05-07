@@ -1,9 +1,15 @@
-import { AboutMap, TranslationsMap, ProjectsMap } from "@/app/util/map-delimiters"
+import { AboutJobsMap, AboutSkillsMap, AboutEducationMap, TranslationsMap, ProjectsMap } from "@/app/util/mappers"
 
 export default function Block({block, mapperString}) {
     let mapper
-    if (mapperString == 'about') {
-        mapper = AboutMap
+    if (mapperString == 'about-jobs') {
+        mapper = AboutJobsMap
+    }
+    else if (mapperString == "about-skills") {
+        mapper = AboutSkillsMap
+    }
+    else if (mapperString == "about-education") {
+        mapper = AboutEducationMap
     }
     else if (mapperString == "translations") {
         mapper = TranslationsMap
@@ -13,11 +19,11 @@ export default function Block({block, mapperString}) {
     }
 
     return (
-        <div className="Block">
+        <>
         {block.map((line,index) => (
                 <BlockLineHelper line={line} key={index} mapper={mapper}/>
             ))}
-        </div>
+        </>
     )
 }
 
@@ -34,16 +40,21 @@ export function BlockLineHelper({line, mapper}) {
         return <li className={"list-disc list-inside"}>{line[1]}</li>
     }
     else if (type == "Image") {
-        return <img src={line[1]} alt="Image" className={pageStyling + " " + "mb-4 mt-4"}/>
+        return <img src={line[1]} alt="Image" className={pageStyling + " mb-4 mt-4"}/>
     }
     else if (type == "Title") {
-        return <h1 className={pageStyling + " " + "font-bold"}>{line[1]}</h1>
-
+        return <h1 className={pageStyling + " font-bold"}>{line[1]}</h1>
+    }
+    else if (type == "Subtitle") {
+        return <h2 className={pageStyling + ""}>{line[1]}</h2>
     }
     else if (type == "Git Repo") {
-        return <div className = {pageStyling + " " + "mb-4"}>{line[1]}</div>
+        return <div className={pageStyling + " mb-4"}>{line[1]}</div>
+    }
+    else if (type == "Date Range") {
+        return <div className="mb-2">{line[1]}</div>
     }
     else {
-        return <div className = "min-h-6">{line[1]}</div>
+        return <div className="min-h-6">{line[1]}</div>
     }
 }

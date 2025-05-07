@@ -1,5 +1,4 @@
 import {blocks_translations} from '@/app/util/parse-file'
-import PageParse from '@/app/components/page-parse'
 
 
 export default function TranslationsPage() {
@@ -8,8 +7,8 @@ export default function TranslationsPage() {
         <>
             <h1 className="font-bold text-2xl text-center mb-4">Japanese to English Translations</h1>
             <div className="flex flex-col gap-8">
-                <a href="/translations/smt-tokyo-requiem/" className="text-center  hover:underline">Shin Megami Tensei: Tokyo Requiem</a>
-                <a href="/translations/smt-tokyo-requiem/" className="text-center  hover:underline">Akuma no Iru Tengoku by Shinichi Hoshi</a>
+                <a href="/translations/smt-tokyo-requiem/" className="text-center hover:underline">Shin Megami Tensei: Tokyo Requiem</a>
+                <a href="/translations/smt-tokyo-requiem/" className="text-center hover:underline">Akuma no Iru Tengoku by Shinichi Hoshi</a>
             </div>
         </>
     )

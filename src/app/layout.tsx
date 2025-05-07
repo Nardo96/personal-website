@@ -33,6 +33,8 @@ export default function RootLayout({
           <a href="/projects/">Code Projects</a>
         </nav>
         <main className="items-center justify-items-center min-h-screen pb-20 gap-16 p-16 font-[family-name:var(--font-geist-sans)] flex flex-col">{children}</main>
+        <footer className="min-h-20">
+        </footer>
       </body>
     </html>
   );

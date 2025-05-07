@@ -1,4 +1,6 @@
-export const blocks_about = ParseFile('src/resources/about/example.txt')
+export const blocks_about_jobs = ParseFile('src/resources/about/jobs.txt')
+export const blocks_about_education = ParseFile('src/resources/about/education.txt')
+export const blocks_about_skills = ParseFile('src/resources/about/skills.txt') 
 export const blocks_translations = ParseFile('src/resources/translations/example.txt')
 export const blocks_projects = ParseFile('src/resources/projects/example.txt')
 export const chapter_filename_list_smttr = GetFileNames('src/resources/translations/smt-tokyo-requiem')
