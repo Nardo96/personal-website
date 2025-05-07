@@ -1,0 +1,14 @@
+{
+# University of Florida College of Liberal Arts and Sciences
+### Bachelor of Science in Computer Science
+@ Tampa, FL
+@@ January 2023 - December 2024
+}
+
+{
+# University of Florida College of Liberal Arts and Sciences
+### Bachelor of Arts in Economics - Summa Cum Laude
+@ Gainesville, FL
+@@ August 2015 - May 2019
+- Recepient of the Florida Incentive Scholarship
+}

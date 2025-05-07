@@ -1,0 +1,22 @@
+{
+- CompTIA Network+ ce 2022
+- CompTIA A+ ce 2022 
+- Microsoft Office Specialist - Access 2015
+- Microsoft Office Specialist - Excel
+- Japanese Language Proficiency Test N2
+}
+
+{
+- Trilingual English/Spanish/Japanese
+- Proficient in Java, Python, and SQL
+- Intermediate C++ and JavaScript/HTML/CSS
+}
+
+{
+- CLI
+- git
+- React
+- Next.js
+- Java Spring Boot
+- Cucumber Automated Testing
+}
