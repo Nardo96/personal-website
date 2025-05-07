@@ -3,13 +3,13 @@
 - CompTIA A+ ce 2022 
 - Microsoft Office Specialist - Access 2015
 - Microsoft Office Specialist - Excel
-- Japanese Language Proficiency Test N2
+- Japanese Language Proficiency Test N2 2017
 }
 
 {
-- Trilingual English/Spanish/Japanese
+- Trilingual in English, Spanish, and Japanese
 - Proficient in Java, Python, and SQL
-- Intermediate C++ and JavaScript/HTML/CSS
+- Intermediate in C++ and JavaScript/HTML/CSS
 }
 
 {
