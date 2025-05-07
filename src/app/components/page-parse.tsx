@@ -6,7 +6,9 @@ export default function PageParse({blocks, mapper}) {
         return (
             <>
             {blocks.map((block,index) => (
-                <Block block={block} key={index} mapperString={mapper}></Block>
+                <div key={index}>
+                    <Block block={block} key={index} mapperString={mapper}></Block>
+                </div>
             ))}
             </>
         )
@@ -15,7 +17,9 @@ export default function PageParse({blocks, mapper}) {
         return (
             <>
             {blocks.map((block,index) => (
-                <Block block={block} key={index} mapperString={mapper}></Block>
+                <div key={index}>
+                    <Block block={block} key={index} mapperString={mapper}></Block>
+                </div>
             ))}
             </>
         )
@@ -24,7 +28,10 @@ export default function PageParse({blocks, mapper}) {
         return (
             <>
             {blocks.map((block,index) => (
-                <Block block={block} key={index} mapperString={mapper}></Block>
+                <div key={index}>
+                    <Block block={block} key={index} mapperString={mapper}></Block>
+                </div>
+                
             ))}
             </>
         )

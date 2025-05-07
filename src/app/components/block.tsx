@@ -13,11 +13,11 @@ export default function Block({block, mapperString}) {
     }
 
     return (
-        <div className="Block">
+        <>
         {block.map((line,index) => (
                 <BlockLineHelper line={line} key={index} mapper={mapper}/>
             ))}
-        </div>
+        </>
     )
 }
 
