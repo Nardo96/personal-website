@@ -4,10 +4,10 @@
 - This website is designed such that I can easily add more content to the existing structure by writing to text files in a very simple markup language. I then use React / Next.js to write the code needed to take those text files, parse the content, and statically generate the html and css files needed to load website.
 }
 {
-# Project Title
-@ https://github.com/example/repo
+# Home Finance Toolkit
+@ https://github.com/Nardo96/home-finance-toolkit
 $ /homefinancetoolkit-example1.png
-- lorem ipsum lorem, lorem something ipsum, bla. Ensured x by acclimating policy y to an atmosphere of 32 degrees celsius to generate over 300 gorillion rupees
-- Example second point, meant to illustrate the ability to put images in a specific order..
 $ /homefinancetoolkit-example2.png
+$ /homefinancetoolkit-example3.png
+- This tool works as a database of transactions for your bank accounts along with useful functions to help keep track of your finances at home. It uses Python and Tkinter to provide an GUI CRUD interface to a MySQL backend. This was my first attempt at a more complex project, and it shows it through its lacking project structure. A refactor would do wonders.
 }

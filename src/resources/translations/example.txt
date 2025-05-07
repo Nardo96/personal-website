@@ -1,5 +1,0 @@
-{
-# Chapter 0
-- It was a dark and stormy night. A light flickered in the distance - bla ba. Blaa blaa bla bla, bleh.
-- And yet also, bla bla lorem ipsum. Aghast!
-}

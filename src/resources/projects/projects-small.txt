@@ -1,0 +1,7 @@
+{
+$ /random-video-gallery-example.gif
+}
+
+{
+$ /rock-paper-scissors-example.png
+}

@@ -30,3 +30,7 @@ export const ProjectsMap = new Map([
     ['$', 'Image'],
     ['-', 'Description']
 ])
+
+export const ProjectsSmallMap = new Map([
+    ['$', 'Image'],
+])
