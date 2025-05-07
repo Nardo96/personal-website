@@ -12,7 +12,7 @@ export default function ProjectsPage() {
             </div>
             <h1 className="font-bold text-1.5xl text-center mt-4">Visit my github profile for other small projects!</h1>
             <h1 className="text-center -mt-16">https://github.com/Nardo96/</h1>
-            <div className="w-1/2 flex flex-row gap-4 justify-center">
+            <div className="w-1/2 flex flex-row gap-4 justify-center -mt-16">
                 <BlocksList blocks={blocks_projects_small} mapper="projects-small"/>
             </div>
         </>
