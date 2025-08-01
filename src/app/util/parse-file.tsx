@@ -35,11 +35,6 @@ export function ParseFile(filepath: string) {
             const remain = line.slice(index+1)
             block.push([delim, remain])
         }
-        console.log("Parsed file: " + filepath)
-        console.log("Number of blocks: " + blocks.length)
-        for (let i = 0; i < blocks.length; i++) {
-            console.log("Block " + i + ": " + blocks[i].length + " lines")
-        }
         return blocks
     } catch (err) {
         console.error(err)
