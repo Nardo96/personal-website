@@ -47,7 +47,7 @@ export default function RootLayout({
       >
         <NavBar/>
         <main>{children}</main>
-        <footer className="min-h-20 dark:text-white">
+        <footer className="min-h-20 dark:bg-gray-800">
         </footer>
       </body>
     </html>
