@@ -1,7 +1,6 @@
 export const blocks_about_jobs = ParseFile('src/resources/about/jobs.txt')
 export const blocks_about_education = ParseFile('src/resources/about/education.txt')
 export const blocks_about_skills = ParseFile('src/resources/about/skills.txt') 
-export const blocks_translations = ParseFile('src/resources/translations/example.txt')
 export const blocks_projects = ParseFile('src/resources/projects/projects.txt')
 export const blocks_projects_small = ParseFile('src/resources/projects/projects-small.txt')
 export const chapter_filename_list_smttr = GetFileNames('src/resources/translations/smt-tokyo-requiem')
@@ -9,14 +8,12 @@ export const  chapter_fileparse_list_smttr = parseFiles('src/resources/translati
 
 // Returns a list of blocks, each block is a list of lines, each line is a list of [delimiter, text]
 export function ParseFile(filepath: string) {
-    console.log("pre file system call")
     try {
         const fs = require('fs')
         const data = fs.readFileSync(filepath, 'utf8')
-        const lines = data.split("\n")
+        const lines = data.split("\r\n")
         let blocks = []
         let block = []
-        console.log("file opened")
 
         for (const line of lines) {
             var index = 0
@@ -26,9 +23,9 @@ export function ParseFile(filepath: string) {
             }
             if (line[index] == "{" || line[index] == "}") {
                 if (block.length != 0) {
-                    blocks.push(block)
-                    block = []
+                    blocks.push(block)  
                 }
+                block = []
                 continue
             }
             while (line[index] != " " && index < line.length) {
@@ -36,8 +33,12 @@ export function ParseFile(filepath: string) {
             }
             const delim = line.slice(0, index)
             const remain = line.slice(index+1)
-            console.log(line)
             block.push([delim, remain])
+        }
+        console.log("Parsed file: " + filepath)
+        console.log("Number of blocks: " + blocks.length)
+        for (let i = 0; i < blocks.length; i++) {
+            console.log("Block " + i + ": " + blocks[i].length + " lines")
         }
         return blocks
     } catch (err) {
@@ -49,14 +50,11 @@ export function GetFileNames(filepath: string) {
     const fs = require('fs')
     const data = fs.readdirSync(filepath)
     let files = []
-    let index = 0
     for (const file of data) {
         if (file.endsWith(".txt")) {
             files.push(file)
-            index += 1
         }
     }
-    console.log(files)
     return files
 }
 
