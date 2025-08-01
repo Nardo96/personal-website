@@ -20,7 +20,7 @@ export default async function Page({
     let prevFilePath = chapter_filename_list_smttr[index-1]
     let nextFilePath = chapter_filename_list_smttr[index+1]
     return (
-        <>
+        <div className="items-center justify-items-center min-h-screen pb-20 gap-16 p-16 font-[family-name:var(--font-geist-sans)] flex flex-col dark:bg-gray-800 dark:text-white">
             <div className="w-7/10 flex justify-center">
                 <BlocksList blocks={blocks} mapper="translations"/>
             </div>
@@ -34,6 +34,6 @@ export default async function Page({
                     </button>
                 </Link>
             </div>
-        </>
+        </div>
     )
   }

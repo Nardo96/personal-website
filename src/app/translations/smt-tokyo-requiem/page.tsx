@@ -4,7 +4,7 @@ import Link from "next/link"
 
 export default function BookPage() {
     return (
-        <>
+        <div className="items-center justify-items-center min-h-screen pb-20 gap-16 p-16 font-[family-name:var(--font-geist-sans)] flex flex-col dark:bg-gray-800 dark:text-white">
             <div className="w-7/10 flex flex-col gap-8" >
                 <h1 className="text-center font-bold text-2xl mb-4">Shin Megami Tensei: Tokyo Requiem</h1>
                 <Image src="/TokyoRequiem_title.webp" alt="Tokyo Requiem Title Screen (source: https://megamitensei.fandom.com/wiki/Shin_Megami_Tensei:_Tokyo_Requiem?file=TokyoRequiem_Title.jpg)" width={500} height={500} className="mx-auto mb-4"/>
@@ -21,7 +21,7 @@ export default function BookPage() {
                     </>
                 </div>
             </div>
-        </>
+        </div>
     )
 }
 

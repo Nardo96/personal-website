@@ -3,9 +3,8 @@ import BlocksList from '@/app/components/blocks-list'
 
 
 export default function ProjectsPage() {
-    console.log(blocks_projects)
     return (
-        <>
+        <div className="items-center justify-items-center min-h-screen pb-20 gap-16 p-16 font-[family-name:var(--font-geist-sans)] flex flex-col dark:bg-gray-800 dark:text-white">
             <h1 className="font-bold text-2xl text-center mb-4">Main Projects</h1>
             <div className="w-7/10 flex flex-col gap-36">
                 <BlocksList blocks={blocks_projects} mapper="projects"/>
@@ -15,6 +14,6 @@ export default function ProjectsPage() {
             <div className="w-1/2 flex flex-row gap-4 justify-center -mt-16">
                 <BlocksList blocks={blocks_projects_small} mapper="projects-small"/>
             </div>
-        </>
+        </div>
     )
 }

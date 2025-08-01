@@ -23,17 +23,17 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className="dark">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <nav className="justify-content justify-end gap-16 pt-8 font-[family-name:var(--font-geist-sans)] flex flex-row pe-16 ps-16">
+        <nav className="justify-content justify-end gap-16 pt-8 font-[family-name:var(--font-geist-sans)] flex flex-row pe-16 ps-16 dark:bg-gray-800 dark:text-white">
           <a href="/about/">About Me</a>
           <a href="/translations/">J-E Translations</a>
           <a href="/projects/">Code Projects</a>
         </nav>
-        <main className="items-center justify-items-center min-h-screen pb-20 gap-16 p-16 font-[family-name:var(--font-geist-sans)] flex flex-col">{children}</main>
-        <footer className="min-h-20">
+        <main>{children}</main>
+        <footer className="min-h-20 dark:text-white">
         </footer>
       </body>
     </html>
