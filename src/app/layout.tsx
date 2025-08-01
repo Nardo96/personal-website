@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import NavBar from "./navbar";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -22,16 +23,29 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+
   return (
-    <html lang="en" className="dark">
+    <html lang="en" className="">
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              try {
+                var darkPref = localStorage.getItem("darkMode");
+                if (darkPref === "enabled") {
+                  document.documentElement.classList.add("dark");
+                } else {
+                  document.documentElement.classList.remove("dark");
+                }
+              } catch(e){}
+            `,
+          }}
+        />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <nav className="justify-content justify-end gap-16 pt-8 font-[family-name:var(--font-geist-sans)] flex flex-row pe-16 ps-16 dark:bg-gray-800 dark:text-white">
-          <a href="/about/">About Me</a>
-          <a href="/translations/">J-E Translations</a>
-          <a href="/projects/">Code Projects</a>
-        </nav>
+        <NavBar/>
         <main>{children}</main>
         <footer className="min-h-20 dark:text-white">
         </footer>
