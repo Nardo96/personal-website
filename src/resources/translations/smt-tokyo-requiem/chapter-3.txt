@@ -1,7 +1,8 @@
 {
 # Chapter 3
 - -15F-
-- 
+} 
+{
 - Bartender:
 - "So you're the guy who's been
 - making his way down the building, huh.
@@ -11,24 +12,29 @@
 - The Grass-Cutting Sword, or the Spirit Sword, or something...
 - If you have it, you should unequip it
 - and take it to the Cathedral of Shadows."
-- 
+} 
+{
 - -14F-
-- 
+} 
+{
 - (Protagonist Name):
 - "!?"
-- 
+} 
+{
 - As soon as I entered the room, 
 - a strong, sudden light stole my field of vision.
 - As if a sun had come down right on top of me, 
 - eyes shut from the glare, 
 - I felt a warmth spread throughout my face.
 - Just what...?
-- 
+} 
+{
 - ?:
 - "(Protagonist Name)."
 - (Protagonist Name):
 - "Who... are you?"
-- 
+} 
+{
 - The light dimmed greatly, and eventually, 
 - I could see what lay in front of me.
 - A man was standing there, 
@@ -40,12 +46,15 @@
 - dazzlingly beautiful wings.
 - He seemed wrapped 
 - in a glaring light.
-- 
+} 
+{
 - ?:
 - "I am Michael, leader of angels."
-- 
+} 
+{
 - It was a voice dripping with pride and confidence.
-- 
+} 
+{
 - Michael:
 - "(Protagonist Name).
 - Did you not heed my warning from last time?"
@@ -82,13 +91,15 @@
 - "Insolent words, coming from an angel!"
 - Michael:
 - "!"
-- 
+} 
+{
 - Darkness arrived.
 - It swelled and expanded, 
 - eroding the light emanating from the archangel.
 - And from the darkness
 - walked a man dressed in black...
-- 
+} 
+{
 - Michael:
 - "Satan."
 - Satan:
@@ -121,12 +132,14 @@
 - "Mere sophistry!"
 - Satan:
 - "My words, or yours, I wonder."
-- 
+} 
+{
 - It was a confrontation of light and darkness.
 - Funnily enough, 
 - the two seemed similar in some way,
 - even though they were polar opposites...
-- 
+} 
+{
 - Michael:
 - "God is Truth.
 - So it was decided
@@ -136,34 +149,42 @@
 - "Is that so?
 - Funny.
 - Then, allow me to see it through to the end."
-- 
+} 
+{
 - Satan sent a glance towards my direction, 
 - then smiled.
 - I could see indignation flaring in Michael's face.
 - However...
 - As the angel retracted his wings, 
 - his figure seemed to fade into the light.
-- 
+} 
+{
 - Michael:
 - "Do not forget my words."
-- 
+} 
+{
 - The demon similiarly began to 
 - step into the darkness. 
-- 
+} 
+{
 - Satan:
 - "There's nothing emptier than an angel's words..."
-- 
+} 
+{
 - Then, the two left. What remained
 - was just one
 - lone human.
-- 
+} 
+{
 - -13F-
-- 
+} 
+{
 - Lilith:
 - "(Protagonist Name)..."
 - (Protagonist Name):
 - "L-..."
-- 
+} 
+{
 - Lilith,
 - I tried to called out, but stopped.
 - Was she (Heroine Name), 
@@ -173,16 +194,19 @@
 - As if to jolt those thoughts out of me,
 - Lilith began to sway and change form
 - before my very eyes.
-- 
+} 
+{
 - (Protagonist Name):
 - "!!"
-- 
+} 
+{
 - What lay there was none other than
 - dear (Heroine Name).
 - Reunited with someone
 - I thought I'd never meet again, 
 - I felt a heat well up inside me.
-- 
+} 
+{
 - (Protagonist Name):
 - "(Heroine Name)!"
 - Lilith:
@@ -201,11 +225,13 @@
 - (Protagonist Name):
 - "What is Satan trying to have you do
 - ?"
-- 
+} 
+{
 - Lilith shook her head.
 - I wondered if she couldn't say it.
 - Satan was her master, after all.
-- 
+} 
+{
 - Lilith:
 - "But, I can say this.
 - I live for your sake.
@@ -214,12 +240,14 @@
 - my feelings never changed..."
 - (Protagonist Name):
 - "(Heroine Name)...!"
-- 
+} 
+{
 - [Choose]
 - �Maybe God has the power to do something.
 - �I don't care even if you're a demon!
 - �But, you're under Satan's control...
-- 
+} 
+{
 - When 'Maybe God has the power to do something.' is chosen:
 - (Protagonist Name):
 - "Maybe God has the power to do something.
@@ -239,19 +267,23 @@
 - acting in accordance with the will of God.
 - If I do so, I may be able to save you...
 - ..."
-- 
+} 
+{
 - Lilith smiled
 - and nodded, but 
 - that smile seemed somewhat lonely.
-- 
+} 
+{
 - Lilith:
 - "I should get going.
 - I'm still a demon, after all.
 - Those angels won't be too happy
 - if we stay together too long, will they?"
-- 
+} 
+{
 - And so she left.
-- 
+} 
+{
 - When 'I don't care even if you're a demon!' is chosen:
 - (Protagonist Name):
 - "I don't care even if you're a demon!
@@ -259,9 +291,11 @@
 - you'll always be (Heroine Name)!
 - You haven't lost your compassion...
 - Isn't that enough?"
-- 
+} 
+{
 - Lilith showed a downcast expression.
-- 
+} 
+{
 - Lilith:
 - "At some point, 
 - you'll have to make a choice..."
@@ -272,17 +306,21 @@
 - "One that will determine your fate.
 - I exist to guide that choice, 
 - and, in turn, be guided by it."
-- 
+} 
+{
 - Her words puzzled me.
-- 
+} 
+{
 - Lilith:
 - "It's still not that time yet...
 - But please don't forget.
 - That time will come..."
-- 
+} 
+{
 - Leaving only those words,
 - Lilith departed.
-- 
+} 
+{
 - When 'But, you're under Satan's control...' is chosen:
 - (Protagonist Name):
 - "But, you're under Satan's control...
@@ -307,10 +345,12 @@
 - Lilith:
 - "Yeah,
 - you might be right..."
-- 
+} 
+{
 - Though Lilith showed a sorrowful expression at first, 
 - before long, a seductive smile hung upon her lips.
-- 
+} 
+{
 - Lilith:
 - "Lord Satan
 - may just like that
@@ -321,17 +361,21 @@
 - "You'll understand eventually.
 - ...... Let's meet again.
 - Hehe."
-- 
+} 
+{
 - Leaving only those words,
 - Lilith departed.
-- 
+} 
+{
 - -12F-
-- 
+} 
+{
 - Gently,
 - something fluttered down in front of me.
 - It was a playing card.
 - Flipping it over, I saw the queen of spades.
-- 
+} 
+{
 - Lucifer:
 - "Hey, looks like we meet again."
 - (Protagonist Name):
@@ -349,12 +393,14 @@
 - She was your girlfriend, wasn't she?"
 - (Protagonist Name):
 - "I..."
-- 
+} 
+{
 - [Choose]
 - �I'll save her.
 - �I want to know her true feelings.
 - �I'm worried she may be an enemy.
-- 
+} 
+{
 - When 'I'll save her' is chosen:
 - (Protagonist Name):
 - "I'll save her."
@@ -367,9 +413,11 @@
 - "Hoh.
 - Well, it's fine...
 - But..."
-- 
+} 
+{
 - A suggestive look emerged on Lucifer's face.
-- 
+} 
+{
 - Lucifer:
 - "Is that really what she wants?"
 - (Protagonist Name):
@@ -386,10 +434,12 @@
 - That's something for you to figure out!
 - ... Let's meet again, 
 - if the opportunity ever arises."
-- 
+} 
+{
 - Lucifer soon disappeared,
 - laughter filling his wake.
-- 
+} 
+{
 - When 'I want to know her true feelings' is chosen:
 - (Protagonist Name):
 - "I want to know her true feelings."
@@ -407,9 +457,11 @@
 - "Hoh.
 - Well, it's fine...
 - But..."
-- 
+} 
+{
 - A suggestive look emerged on Lucifer's face.
-- 
+} 
+{
 - Lucifer:
 - "Is that really what she wants?"
 - (Protagonist Name):
@@ -427,10 +479,12 @@
 - That's something for you to figure out!
 - ... Let's meet again, 
 - if the opportunity ever arises."
-- 
+} 
+{
 - Lucifer soon disappeared,
 - laughter filling his wake.
-- 
+} 
+{
 - If 'I'm worried she may be an enemy' is chosen:
 - (Protagonist Name):
 - "I'm worried she may be an enemy."
@@ -446,9 +500,11 @@
 - Lucifer:
 - "Hoh.
 - Well, it's fine..."
-- 
+} 
+{
 - A suggestive look emerged on Lucifer's face.
-- 
+} 
+{
 - Lucifer:
 - "She exists for your sake.
 - She said that, didn't she?
@@ -461,12 +517,15 @@
 - That's something for you to figure out!
 - ... Let's meet again, 
 - if the opportunity ever arises."
-- 
+} 
+{
 - Lucifer soon disappeared,
 - laughter filling his wake.
-- 
+} 
+{
 - -11F-
-- 
+} 
+{
 - The room was dark and smelled of mold,
 - with spider's nests littered about, 
 - giving the impression it had
@@ -483,7 +542,8 @@
 - Appearing from the coffin together with pallid light was
 - a fanged, red-eyed man wearing a cloak.
 - He looked like a vampire straight out of a movie!
-- 
+} 
+{
 - Vampire:
 - "I am Vampire,
 - divorced from the mortal coil, 
@@ -491,22 +551,27 @@
 - Will you join me and live in the darkness forever more?
 - Or will you give up every last drop of your life...?
 - Make your decision."
-- 
+} 
+{
 - "Woah, are you serious?!
 - You think I'll let myself get turned into a zombie in a place like this?!"
-- 
+} 
+{
 - Three Yoma Vampire appeared.
-- 
+} 
+{
 - "Gyaaaaa!!"
 - The vampires raised their final cries.
 - Their bodies crumbled away like sand, 
 - and before long, only dirt remained in the coffin.
 - Seeing that I had safely gotten through the encounter,
 - I took a breath in relief.
-- 
+} 
+{
 - (Protagonist Name):
 - "... Oh? This is......"
-- 
+} 
+{
 - Peeking into the now-ownerless coffin, 
 - I spotted a sword.
 - It must've been the one of the vampire's private property.

@@ -1,7 +1,8 @@
 ﻿{
 # Prologue - Game Version
 - December 24, 201X --
-- 
+} 
+{
 - The christmas present
 - Tokyo got that day
 - was death and destruction.
@@ -36,9 +37,11 @@
 - My cellphone screen showed a newly arrived email.
 - The sender... had no name.
 - And written in the message was just one thing:
-- 
+} 
+{
 - "Will you decide?"
-- 
+} 
+{
 - Attached to the email was a file.
 - "What... is this -"
 - I opened the file.
@@ -50,9 +53,11 @@
 - With a dampened demeanor, 
 - I closed my cellphone,
 - turned around, and tried to respond. It was then -
-- 
+} 
+{
 - Flash!
-- 
+} 
+{
 - Several minutes earlier.
 - Atop a screen surveilling the Tokyo airspace,
 - countless dots of light suddenly lit up.
@@ -89,7 +94,8 @@
 - The screams, the death throes, the voices calling out names,
 - all were drowned out by thundorous roaring.
 - December 24, 201X --
-- 
+} 
+{
 - The flames of nuclear war burned Tokyo to the ground. 
 - In an instant, the capital was brought to a halt, 
 - and an innumerable amount of lives
