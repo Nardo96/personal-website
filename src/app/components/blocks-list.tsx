@@ -8,6 +8,9 @@ export default function BlocksList({blocks, mapper}) {
     else if (mapper == "projects-small") {
         styling = "w-1/2"
     }
+    else if (mapper == "translations") {
+        styling = "max-w-[700px] mx-auto text-justify w-full"
+    }
     return (
         <>
         {blocks.map((block,index) => (

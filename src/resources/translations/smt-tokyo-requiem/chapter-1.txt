@@ -2,10 +2,11 @@
 # Chapter 1
 - (Protagonist Name):
 - "...nngh.."
-- 
-- Opening my eyes, I awoke 
+} 
+{- Opening my eyes, I awoke 
 - on an unfamiliar bed.
-- 
+} 
+{
 - (Protagonist Name):
 - "Where...
 - just what happened?"
@@ -13,11 +14,13 @@
 - "Oh, you've woken up?
 - I thought you were a goner, 
 - but I suppose that's youth for you."
-- 
+} 
+{
 - A young man stood there,
 - clad in white robes and the stench of medicine. The bed I was placed on
 - seemed to be the sort you'd find at a doctor's office.
-- 
+} 
+{
 - (Protagonist Name):
 - "Just what...?
 - right...
@@ -32,12 +35,14 @@
 - and hence, managed to survive.
 - Those who remain
 - are huddled up in this camp."
-- 
+} 
+{
 - My memories were slow to stir.
 - Right. While aimlessly wandering 
 - god knows where, eventually, 
 - I collapsed.
-- 
+} 
+{
 - (Protagonist Name):
 - "You saved me?"
 - Man:
@@ -58,19 +63,22 @@
 - "Her name was..."
 - Register Name: HEROINE
 - (Enter Heroine Name)
-- 
+} 
+{
 - Man:
 - "(Heroine Name), is it?
 - Well, hopefully she's found..."
 - (Protagonist Name):
 - "Right..."
-- 
+} 
+{
 - I couldn't say anything more
 - towards that worried face.
 - She was undoubtedly dead.
 - Like a flashback, I recalled
 - her bloody figure.
-- 
+} 
+{
 - (Protagonist Name):
 - "(Heroine Name)..."
 - The man bumped my shoulder.
@@ -84,7 +92,8 @@
 - "... Right...
 - ......
 - ... thanks..."
-- 
+} 
+{
 - He left the office.
 - I lay face up on the bed and closed my eyes
 - as various things circled around in my mind.
@@ -97,32 +106,40 @@
 - it seemed my body hadn't fully healed yet.
 - Before I knew it, 
 - I had begun drifting off to sleep...
-- 
+} 
+{
 - Voice:
 - "(Protagonist Name)... (Protagonist Name)..."
-- 
+} 
+{
 - I thought I heard a voice calling out.
 - One I had heard before.
 - It was someone I was intimately familiar with...
-- 
+} 
+{
 - Voice:
 - "(Protagonist Name)... (Protagonist Name)..."
 - (Protagonist Name):
 - "...!"
-- 
+} 
+{
 - With a gasp, I was startled awake.
-- 
+} 
+{
 - (Protagonist Name):
 - "(Heroine Name)."
-- 
+} 
+{
 - There she was, 
 - standing in the corner of that dark room, 
 - a muffled giggle slipping past her lips.
-- 
+} 
+{
 - (Protagonist Name):
 - "No, wait...
 - ... who are you?"
-- 
+} 
+{
 - What stood there was not (Heroine Name). 
 - She was gone now.
 - As a sense of loss began filling my chest once more, 
@@ -132,14 +149,17 @@
 - I couldn't tell her age, exactly.
 - At a glance, she seemed to be around my age, 
 - but she was tinged with a mature charm.
-- 
+} 
+{
 - Woman:
 - "My name is Lilith."
-- 
+} 
+{
 - Her voice, in the end, 
 - somehow gave me a sense of longing.
 - Just what was this feeling?
-- 
+} 
+{
 - (Protagonist Name):
 - "Are you also... with the camp?"
 - Lilith:
@@ -149,12 +169,14 @@
 - Lilith:
 - "Rather than me, 
 - let's talk about you."
-- 
+} 
+{
 - Lilith laughed, then 
 - quickly made her way down to the bed.
 - Whether from those graceful limbs or supple movements, 
 - she gave off the air of a fickle tabby.
-- 
+} 
+{
 - Lilith:
 - "Don't you wanna leave?"
 - (Protagonist Name):
@@ -172,11 +194,13 @@
 - can get out of here."
 - (Protagonist Name):
 - "That's..."
-- 
+} 
+{
 - It was hard to take her at face value. But after what just happened, 
 - it seemed that 
 - anything was possible. 
-- 
+} 
+{
 - (Protagonist Name):
 - "So that's it.
 - But...
@@ -188,26 +212,31 @@
 - isn't it?
 - Those guys told me it was 
 - okay to stay, too."
-- 
+} 
+{
 - Right.
 - There was no reason to go out of my way
 - to step into a demon's lair.
-- 
+} 
+{
 - Lilith:
 - "Are you really fine with that?"
-- 
+} 
+{
 - Suddenly, her hand touched me.
 - In that instant, I was overcome with a mysterious sensation.
 - What in the world?
 - I felt like she knew something
 - about my girlfriend, after all..."
-- 
+} 
+{
 - Lilith:
 - "Are you just going to stay here, 
 - waiting for it all to pass?
 - Don't you have
 - somewhere to be?"
-- 
+} 
+{
 - Ridiculous.
 - By that point, 
 - I had lost everything.
@@ -216,13 +245,16 @@
 - and my ties from the past.
 - Everything was blasted away in an instant.
 - Only emptiness remained.
-- 
+} 
+{
 - Lilith:
 - "You haven't lost anything yet."
-- 
+} 
+{
 - She spoke like
 - she had seen through me.
-- 
+} 
+{
 - Lilith:
 - "But you just may,
 - if you continue hesitating.
@@ -242,21 +274,25 @@
 - Lilith:
 - "You, yourself,
 - must find the answers you seek."
-- 
+} 
+{
 - She spoke as if posing a riddle.
 - Those eyes, 
 - which seemed to look towards me with care, 
 - lit up with an ominous glint.
 - Her crimson lips broke out in a smile.
-- 
+} 
+{
 - Lilith:
 - "Hey...
 - don't you want to know how?"
-- 
+} 
+{
 - Lilith brought her body so close
 - I could feel her temperature,
 - her breath whispering by my ears.
-- 
+} 
+{
 - Lilith:
 - "I, at least, 
 - can teach you." She giggled.
@@ -270,10 +306,12 @@
 - Lilith:
 - "That's right.
 - I wouldn't worry too much, though, with what you're holding." 
-- 
+} 
+{
 - She talked in a hum, 
 - seemingly in trance.
-- 
+} 
+{
 - Lilith:
 - "That is to say, 
 - that Demon Summoning Program you received."
@@ -291,14 +329,16 @@
 - you may be able to break out of here.
 - ... Now, open the app.
 - Choose your first demon..."
-- 
+} 
+{
 - Demon Selection
 - Please choose the first demon 
 - you'd like to ally with.
 - Pixie / Fairy / Lv 2 / NEUTRAL
 - Knocker / Jirae / Lv  4 / LAW
 - War Dog / Beastman / Lv 5 / NEUTRAL
-- 
+} 
+{
 - (Protagonist Name):
 - "This...
 - allied demons, huh...
@@ -319,10 +359,12 @@
 - (Protagonist Name):
 - "Alright...
 - understood."
-- 
+} 
+{
 - I obediently nodded my head, 
 - prompting Lilith to give me a satisfied smile.
-- 
+} 
+{
 - (Protagonist Name):
 - "...... I'll ask once again, but 
 - just who are you?
@@ -343,7 +385,8 @@
 - Lilith:
 - "You'll understand eventually...
 - eventually..."
-- 
+} 
+{
 - Leaving only the sound of laughter, 
 - Lilith appeared to
 - melt into the dark.
@@ -355,9 +398,11 @@
 -  to act.
 - "First, I should try
 - walking around camp, like she said."
-- 
+} 
+{
 - -35F-
-- 
+} 
+{
 - Bartender:
 - Before defeating the Furies:
 - "If you're really going to go downstairs, 
@@ -366,15 +411,19 @@
 - "What?!
 - You really made it downstairs?!
 - Y-You're amazing!"
-- 
+} 
+{
 - -31F-
-- 
+} 
+{
 - Voice:
 - "(Protagonist Name)."
-- 
+} 
+{
 - All of a sudden, I heard my name, so I stopped.
 - From the shadows came none other than...
-- 
+} 
+{
 - (Protagonist Name):
 - "Lilith!"
 - Lilith:
@@ -383,10 +432,12 @@
 - I said it, didn't I?
 - That we'd meet again."
 - She laughed.
-- 
+} 
+{
 - Just like last time,
 - it was flush with a feline charm.
-- 
+} 
+{
 - Lilith:
 - "You did well in getting here.
 - Have you gotten used to dealing with demons?"
@@ -398,10 +449,12 @@
 - Lilith:
 - "Really?
 - Ultimately, you were the one to act."
-- 
+} 
+{
 - Having said that, Lilith suddenly stared
 - at me with a serious expression.
-- 
+} 
+{
 - Lilith:
 - "There's a sentry up ahead. 
 - The demons have placed guards on each floor, 
@@ -428,19 +481,23 @@
 - and their claws are poisonous to boot."
 - (Protagonist Name):
 - "You came here to tell me that?"
-- 
+} 
+{
 - Lilith offered no response, instead touching my hand
 - as if unwilling to part.
-- 
+} 
+{
 - Lilith:
 - "That's all I can tell you.
 - The rest is up to you."
 - (Protagonist Name):
 - "You don't have to tell me twice.
 - As for you..."
-- 
+} 
+{
 - She quietly shook her head.
-- 
+} 
+{
 - (Protagonist Name):
 - "We'll meet again, right...?"
 - Lilith:
@@ -453,39 +510,47 @@
 - from the very beginning, didn't you?
 - We...
 - Have we met somewhere...?"
-- 
+} 
+{
 - It seemed Lilith had no intention
 - of speaking any further.
 - I couldn't tell what was going on inside her head.
-- 
+} 
+{
 - Lilith:
 - "Please do be careful...
 - These birds have made quite a mess of things."
-- 
+} 
+{
 - Then, 
 - her figure melted into the dark once more, 
 - leaving behind only a gate.
 - On the other side, the enemy
 - lay waiting.
-- 
+} 
+{
 - The room was stuffy
 - and dimly lit.
 - An inexplicable smell of incense
 - wafted through the soured air.
-- 
+} 
+{
 - Voice:
 - "Oh?"
-- 
+} 
+{
 - Suddenly, a loud voice came flying down,
 - along with the beating of wings.
-- 
+} 
+{
 - Voice:
 - "A human?"
 - Voice:
 - "Did you say human?"
 - Voice:
 - "It's a human!　We got a human here!"
-- 
+} 
+{
 - Voices echoed about, 
 - followed by screeching laughter.
 - Soon, grotesque creatures appeared, 
@@ -500,7 +565,8 @@
 - With cruel eyes, the crones shot towards me,
 - leaving shrill laughter
 - and inauspicious mutterings in their wake.
-- 
+} 
+{
 - Furiae 1:
 - "Human!
 - Just where do you think you are?
@@ -525,10 +591,12 @@
 - knowing that it was the lair of us Furies, then..."
 - Furiae 1:
 - "You're not getting out of here alive!"
-- 
+} 
+{
 - With raucous laughter, the Furies launched towards me,
 - their metal wings dancing through the air.
-- 
+} 
+{
 - Furiae 2:
 - "I never thought I'd get to meet
 - a human quite like this...!"
@@ -544,9 +612,11 @@
 - "We're eating meat tonight!"
 - The Furies:
 - "Hahahahahahaha!"
-- 
+} 
+{
 - Three Furiae appeared.
-- 
+} 
+{
 - The last Furiae collapsed.
 - Across fluttering feathers,
 - I could see a gaping doorway.
@@ -555,9 +625,11 @@
 - Yet, I was still high up in the building.
 - Further down, there would surely be 
 - stronger foes lying in wait...
-- 
+} 
+{
 - -30F-
-- 
+} 
+{
 - Bartender:
 - Before defeating Lilith:
 - "We can hardly do a thing about 
@@ -568,15 +640,19 @@
 - "You beat the guard?!
 - Looks like we can start heading down... Go on and drink up, 
 - it's on the house!"
-- 
+} 
+{
 - -26F-
-- 
+} 
+{
 - Lilith:
 - "How are you feeling?"
-- 
+} 
+{
 - Suddenly, Lilith appeared.
 - Her visits were always abrupt.
-- 
+} 
+{
 - (Protagonist Name):
 - "Lilith, huh....
 - you're all over the place."
@@ -600,14 +676,16 @@
 - "I thought you'd say that."
 - Lilith:
 - "Hehe."
-- 
+} 
+{
 - Lilith's manner, 
 - capricious as it was, 
 - seemed also tinged
 - with something of a caring aura.
 - Like she was protecting me,
 - guiding me...
-- 
+} 
+{
 - (Protagonist Name):
 - "So?
 - Since you're here, 
@@ -628,10 +706,12 @@
 - be careful of their voices.
 - I pray for your success.
 - Until we meet again."
-- 
+} 
+{
 - She left the way she came, 
 - disappearing into the air.
-- 
+} 
+{
 - The room was pitch-black.
 - Yet,
 - seemingly with my one-step intrusion as a signal, 
@@ -645,19 +725,24 @@
 - By the time I realized it,
 - a group of Yoma, in the forms of innocent young girls, 
 - had surrounded me!
-- 
+} 
+{
 - Three Yoma Lilim appeared.
-- 
+} 
+{
 - -25F-
-- 
+} 
+{
 - Bartender:
 - "You came from upstairs?
 - Impressive.
 - Do you think you could also
 - take care of a monster on the 21st  floor for me?"
-- 
+} 
+{
 - -23F-
-- 
+} 
+{
 - A thick screen of tobacco smoke
 - hung widely in the air.
 - For the first time in a while, 
@@ -668,12 +753,14 @@
 - that empty noise came from a need
 - to drown out the fear and despair
 - that lay in front of them.
-- 
+} 
+{
 - Man:
 - "Hey dude!
 - You wanna join in?
 - We don't have enough players."
-- 
+} 
+{
 - The guys who called out to me
 - seemed to be trying to play some sort of card game. 
 - Littered around me were
@@ -682,7 +769,8 @@
 - With screams of joy and sorrow as the background, 
 - the masses drank and smoked themselves
 - into pandemonium.
-- 
+} 
+{
 - (Protagonist Name):
 - "Oh boy. I don't think I'll manage to get any real info, 
 - at this rate."
@@ -690,7 +778,8 @@
 - I heard a nearby drunkard
 - mumble something out
 - in a slur.
-- 
+} 
+{
 - Drunkard:
 - "Hey!
 - I saw it!
@@ -699,16 +788,20 @@
 - the sentry...
 - that...
 - that was...."
-- 
+} 
+{
 - After muttering one last time, the man drifted off to sleep, 
 - and started snoring.
 - Oh boy.
-- 
+} 
+{
 - -21F-
-- 
+} 
+{
 - Man in White:
 - "Hey, you!"
-- 
+} 
+{
 - A young man dressed in white
 - came calling, neatly groomed, 
 - his eyes carrying a 
@@ -717,7 +810,8 @@
 - a sort of oppressive dignity from him, 
 - at the same time, 
 - he seemed honest and straightfoward.
-- 
+} 
+{
 - Man in White:
 - "You're (Protagonist Name), right?"
 - (Protagonist Name):
@@ -803,7 +897,8 @@
 - of that woman."
 - (Protagonist Name):
 - "Hold on, wait!"
-- 
+} 
+{
 - Having said his part, he made to leave.
 - I tried to chase after him, 
 - but soon lost vision of him.
@@ -826,7 +921,8 @@
 - I wanted to see Lilith and figure it out myself.
 - Maybe we could meet again
 - if I aimed to challenge the next sentry...
-- 
+} 
+{
 - (Protagonist Name):
 - "Lilith!"
 - Lilith:
@@ -844,11 +940,13 @@
 - "Are you really (Heroine Name)?"
 - Lilith:
 - "...!"
-- 
+} 
+{
 - Her expression paled,
 - in sharp contrast to the teasing manner
 - she had kept until then.
-- 
+} 
+{
 - (Protagonist Name):
 - "Well?"
 - Lilith:
@@ -858,10 +956,12 @@
 - Lilith:
 - "I...
 - ... I..."
-- 
+} 
+{
 - Face pallid,
 - she averted her eyes.
-- 
+} 
+{
 - (Protagonist Name):
 - "So it's true?
 - I can't believe it...
@@ -870,27 +970,33 @@
 - "No!
 - I'm...
 - I'm...!"
-- 
+} 
+{
 - Her lips trembled, 
 - like she wanted to cry out her gushing thoughts, 
 - but couldn't do so.
 - And so,
-- 
+} 
+{
 - (Protagonist Name):
 - "H-Hey!"
-- 
+} 
+{
 - As if running away,
 - she disappeared.
-- 
+} 
+{
 - (Protagonist Name):
 - "Lilith..."
-- 
+} 
+{
 - That moment,
 - a ghastly, otherwordly voice
 - came haunting from across the passageway.
 - It seemed the guard
 - had gotten tired of waiting.
-- 
+} 
+{
 - The sound of hooves crashing through the ground filled the air.
 - Situated there
 - was a horde of fantastical creatures.
@@ -903,16 +1009,20 @@
 - I hesistated at the thought of fighting 
 - such seemingly holy beings.
 - But, the herd had no intention of waiting for me to decide!
-- 
+} 
+{
 - Three Holy Beast Kirin appeared.
-- 
+} 
+{
 - "Gyyaaaaa--!!"
 - The death throes of the last Holy Beast echoed about...
 - It seemed I had gotten out of it safely.
-- 
+} 
+{
 - (Protagonist Name):
 - "...hm?"
-- 
+} 
+{
 - As I looked around me, 
 - I spotted a man's corpse.
 - This body, torn apart by the beasts, 
@@ -921,10 +1031,12 @@
 - I felt my back grow cold with sweat.
 - Looking closer, 
 - I saw his hand holding a blade.
-- 
+} 
+{
 - (Protagonist Name):
 - "This... seems like a rather impressive sword."
-- 
+} 
+{
 - As I took the blade, 
 - its honed edge reflecting a dazzling light, 
 - I realized that this was a masterwork.

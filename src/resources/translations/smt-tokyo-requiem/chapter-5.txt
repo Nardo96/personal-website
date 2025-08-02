@@ -1,7 +1,8 @@
 ﻿{
 # Chapter 5
 - -5F-
-- 
+} 
+{
 - Bartender:
 - "Word on the street is,
 - the stairwell leading down 
@@ -11,9 +12,11 @@
 - demons' physical attack and defence are influenced by LV, 
 - so it'll likely be easier to advance
 - after you've properly raised your LV."
-- 
+} 
+{
 - -4F-
-- 
+} 
+{
 - It was a wide room,
 - with many chairs lined up to 
 - face a markedly raised spot.
@@ -24,12 +27,14 @@
 - The bright, resounding voice of a man
 - sung a gloomy melody.
 - Just what...?
-- 
+} 
+{
 - [Choose]
 - ・Who is that?　I'll look for the vocalist.
 - ・I'll listen in for a bit...
 - ・A demon's trap?　I'll interrupt the song.
-- 
+} 
+{
 - If 'Who is that?　I'll look for the vocalist.' is chosen:
 - Who in the world could have been singing
 - in a place like that?
@@ -42,7 +47,8 @@
 - What was left was only silence...
 - Could it have been a demon's mischief?
 - I decided to leave the room behind me.
-- 
+} 
+{
 - If 'I'll listen in for a bit...' is chosen:
 - I sat down in one of the seats.
 - The song was filled with a passion
@@ -69,7 +75,8 @@
 - Though the puzzle remained, 
 - filled with a sense of satisfaction over hearing a good song, 
 - I decided to leave the room behind me.
-- 
+} 
+{
 - If 'A demon's trap?'　I'll interrupt the song.' is chosen:
 - There shouldn't have been any human
 - singing in a place like that.
@@ -90,22 +97,27 @@
 - nor any place to hide in.
 - Could it have been a demon's mischief?
 - I decided to leave the room behind me.
-- 
+} 
+{
 - -2F-
-- 
+} 
+{
 - A sweet scent softly tickled my sense of smell.
 - Somehow, the middle of the room had the form of a garden,
 - with one face teeming with blooming roses.
 - Further,
 - they were all black.
-- 
+} 
+{
 - Lilith:
 - "...Oh?"
 - (Protagonist Name):
 - "Woah, Lilith!?"
-- 
+} 
+{
 - She was there in a bed of roses.
-- 
+} 
+{
 - (Protagonist Name):
 - "Just where is this...?
 - What are you doing?"
@@ -115,60 +127,72 @@
 - I'm picking roses for Lord Satan."
 - (Protagonist Name):
 - "You're what...?"
-- 
+} 
+{
 - [Choose]
 - ・Then, I'll help you.
 - ・Satan likes flowers...?
 - ・That guy has no need for anything like a flower!
-- 
+} 
+{
 - If 'Then, I'll help you.' is chosen:
 - (Protagonist Name):
 - "Then, I'll help you."
 - Lilith:
 - "Really?　Then, please and thank you."
-- 
+} 
+{
 - Together with Lilith, we circled the rose garden
 - picking roses.
-- 
+} 
+{
 - (Protagonist Name):
 - "...ouch!"
 - Lilith:
 - "Ah-... are you ok?"
-- 
+} 
+{
 - I had carelessly pricked my finger
 - with a rose's thorn.
 - Then, Lilith brought my finger to her mouth...
-- 
+} 
+{
 - (Protagonist Name):
 - "Ah..."
-- 
+} 
+{
 - I felt Lilith's lips touch my bloodstained finger,
 - spreading a warmth upon the tip...
 - Even a demon could hold this kind of warmth?
-- 
+} 
+{
 - (Protagonist Name):
 - "Um, thanks..."
-- 
+} 
+{
 - Lilith smiled and laughed.
 - Somehow, I felt my cheeks heat up.
 - That manner
 - was exactly how (Heroine Name) used to be.
 - Yet, she was a demon now...
 - I felt myself grow sad and irritated.
-- 
+} 
+{
 - Lilith:
 - "Thanks.
 - It should be fine now.
 - ... Then, I'll be going."
 - (Protagonist Name):
 - "Yeah."
-- 
+} 
+{
 - Lilith held her flowers
 - as I saw her off.
 - Though I stood there for a while,
 - I couldn't keep standing there forever,
 - and so I left the rose garden.
-- 
+} 
+{
 - If 'Satan likes flowers...?'　is chosen:
 - (Protagonist Name):
 - "Satan likes flowers...?"
@@ -178,7 +202,8 @@
 - the black roses of this garden."
 - (Protagonist Name):
 - "Hmm..."
-- 
+} 
+{
 - Nonchalantly,
 - I continued to watch over Lilith pick roses.
 - The figure of that hand happily stretching towards flowers
@@ -192,18 +217,21 @@
 - Or.
 - As a demon, was she fostering
 - an adoration for Satan?
-- 
+} 
+{
 - Lilith:
 - "It should be fine now.
 - ... then, I'll be going..."
 - (Protagonist Name):
 - "Yeah."
-- 
+} 
+{
 - Lilith held her flowers as I saw her off.
 - Though I stood there for a while,
 - I couldn't keep standing there forever,
 - and so I left the rose garden.
-- 
+} 
+{
 - If 'That guy has no need for anything like a flower!'　is chosen:
 - (Protagonist Name):
 - "That guy has no need for anything like a flower!"
@@ -211,10 +239,12 @@
 - "But..."
 - (Protagonist Name):
 - "A rose garden like this- !"
-- 
+} 
+{
 - I stomped over the nearby bed,
 - eliciting a cry from Lilith.
-- 
+} 
+{
 - Lilith:
 - "How could you do that?!
 - Lord Satan's roses... !"
@@ -234,15 +264,18 @@
 - (Protagonist Name):
 - "Oh, is that so?
 - Understood."
-- 
+} 
+{
 - I felt myself grow kind of sad, 
 - and kind of irritated.
 - One last time, I sent a kick packed with my resentment
 - flying towards the rose next to me,
 - then left the garden.
-- 
+} 
+{
 - -B4F-
-- 
+} 
+{
 - CRACK!!
 - That instant, a single strand of thunder struck.
 - A glaring light appeared together with a large shadow
@@ -252,7 +285,8 @@
 - its overwhelming glare making any observer cower.
 - That ferocious, yet graceful and divine appearance
 - reminded me of a certain mythical god of destruction.
-- 
+} 
+{
 - Diety:
 - "I am Shiva.
 - Human, heed my words.
@@ -263,53 +297,66 @@
 - thy fate ends here.
 - By godly lightning be burned!
 - Meet thine end!"
-- 
+} 
+{
 - I heard a voice as deafening as thunder.
 - From heaven came a rumbling will, 
 - rippling through the trembling atmosphere.
 - This was no joke!
 - Did he think I would just sit there and die?!
-- 
+} 
+{
 - Two Fury Shiva appeared.
-- 
+} 
+{
 - Shiva:
 - "M-Magnificent!"
-- 
+} 
+{
 - Bereft of strength and kneeling one leg, the god of destruction
 - nonetheless began speaking with greater steadiness.
-- 
+} 
+{
 - Shiva:
 - "To think... a human's power could reach this far...
 - It seems I have looked down on thee...
 - I recognize thy strength of will, and grant thee power.
 - What dost thou desire?"
-- 
+} 
+{
 - [Choose]
 - ・I want Strength.
 - ・I want Magic.
 - ・I want Agility.
-- 
+} 
+{
 - If 'I want strength' is chosen:
 - Shiva:
 - "Then, take this."
-- 
+} 
+{
 - You obtained an Incense of Strength!
 - You obtained an Incense of Vitality!
-- 
+} 
+{
 - If 'I want Magic' is chosen:
 - Shiva:
 - "Then, take this."
-- 
+} 
+{
 - You obtained an Incense of Wisdom!
 - You obtained an Incense of Magic!
-- 
+} 
+{
 - If 'I want Agility' is chosen:
 - Shiva:
 - "Then, take this."
-- 
+} 
+{
 - You obtained an Incense of Agility!
 - You obtained an Incense of Strength!
-- 
+} 
+{
 - Shiva:
 - "Beyond this, 
 - a harsh, grave decision 
@@ -320,7 +367,8 @@
 - to meet once more, 
 - I shall lend thee my power.
 - Walk the path thou believest in."
-- 
+} 
+{
 - After speaking so, the god of destruction crumbled away.
 - Before long,
 - that body had turned to powder, disappearing into the wind.

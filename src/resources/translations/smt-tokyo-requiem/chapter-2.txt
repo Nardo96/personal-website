@@ -1,7 +1,8 @@
 ﻿{
 # Chapter 2
 - -20F-
-- 
+} 
+{
 - Bartender:
 - "For the lower floors, 
 - I hear that demonic attacks have gotten more complicated,
@@ -11,21 +12,26 @@
 - Whether to avoid magic and crowd control, 
 - or, on the other hand, make them easier to cast, 
 - it's easier with higher intelligence."
-- 
+} 
+{
 - -18F-
-- 
+} 
+{
 - "Hm?"　There was something fallen on the ground.
 - Picking it up, 
 - I saw that it was a playing card.
 - The queen of hearts.
-- 
+} 
+{
 - ?:
 - "Do you know the meaning of that card?"
-- 
+} 
+{
 - The sudden voice 
 - belonged to a young man,
 - the timing of his arrival a mystery.
-- 
+} 
+{
 - (Protagonist Name):
 - "You are...?"
 - Young Man:
@@ -80,7 +86,8 @@
 - Now, that about wraps things up.
 - ... send my regards to Lilith."
 - Hehehe..."
-- 
+} 
+{
 - Lucifer chuckled, then
 - departed for somewhere.
 - He was a strange man.
@@ -88,9 +95,11 @@
 - the picture started changing.
 - Before long,
 - it had become a queen of spades.
-- 
+} 
+{
 - -17F-
-- 
+} 
+{
 - Lilith:
 - "(Protagonist Name)..."
 - (Protagonist Name):
@@ -100,13 +109,15 @@
 - (Protagonist Name):
 - "Do you finally feel like
 - telling me the truth?"
-- 
+} 
+{
 - A look of hesitation 
 - hung on her face.
 - She looked away.
 - What lay there wasn't a demon or anything, 
 - but a lone woman. 
-- 
+} 
+{
 - (Protagonist Name):
 - "It's fine if you 
 - don't want to talk, but...
@@ -128,9 +139,11 @@
 - Lilith:
 - "I'm...
 - ...ugh-"
-- 
+} 
+{
 - Suddenly, her expression shifted.
-- 
+} 
+{
 - Lilith:
 - "Aa...
 - Aaah...!
@@ -139,14 +152,16 @@
 - Lilith:
 - "Don't touch me,
 - human!"
-- 
+} 
+{
 - Lilith yelled
 - with abrupt intensity.
 - Suddenly, a flash of light illuminated the air, 
 - followed by the descent of darkness.
 - A man clad in solid shadow
 - had appeared next to Lilith.
-- 
+} 
+{
 - Man:
 - "Feeble being, human be thy name...
 - Lilith.
@@ -162,10 +177,12 @@
 - I am Satan,
 - ruler of all demons."
 - Then...
-- 
+} 
+{
 - The man brought Lilith close, 
 - his hand gripped around her waist.
-- 
+} 
+{
 - Satan:
 - "Come, say it, Lilith.
 - Say who I am."
@@ -197,19 +214,23 @@
 - "Yes, Lord Satan."
 - (Protagonist Name):
 - "Wait!"
-- 
+} 
+{
 - Lilith didn't even spare me a glance.
 - Satisfied, Satan wrapped his hand around her shoulder.
 - Then, the pair of demons
 - melded into the dark and disappeared.
-- 
+} 
+{
 - -16F-
-- 
+} 
+{
 - A group of Sirens cut through the air, 
 - diving towards me in quick succession.
 - Though beautiful women at first glance, 
 - their faces hid merciless, inhuman smiles.
-- 
+} 
+{
 - Siren 1:
 - "So you're the human that's been
 - breaking through these floors one after the other, huh."
@@ -222,25 +243,31 @@
 - Siren 1:
 - "Come, let me sing you
 - a lullaby for your soul...!"
-- 
+} 
+{
 - Three Flight Sirens appeared.
-- 
+} 
+{
 - Thud
 - Devoid of any strength, the last of the Sirens collapsed...
 - It seemed I had safely gotten through the encounter.
-- 
+} 
+{
 - (Protagonist Name):
 - "...Hm?"
-- 
+} 
+{
 - Looking around me, 
 - I spotted a heap of objects lying in the corner of the room.
 - It was probably the Sirens' collection.
 - After wondering if I should search for anything usable, 
 - I noisily shuffled through the pile.
-- 
+} 
+{
 - (Protagonist Name):
 - "Oh? This is..."
-- 
+} 
+{
 - A captivating blade was emanating a calm glow.
 - They say birds like shiny objects, but
 - there was no way I expected them to have gotten a hold of that.

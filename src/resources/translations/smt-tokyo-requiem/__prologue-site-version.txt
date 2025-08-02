@@ -1,39 +1,49 @@
 ﻿{
 # Prologue - Site Version
 - Tokyo Requiem Prologue
-- 
+} 
+{
 - December 24, 201X
 - The christmas present Tokyo got that day was death and destruction.
-- 
+} 
+{
 - "Whatever..."
 - A young man, together with his girlfriend, was at a trendy 35 floor building - in Tokyo.
 - Though they were on a date, only the woman was enjoying it, with him feeling - somehow unsatisfied.
 - In the gloomy midst of wondering why that was, an email arrived at his - cellphone.
 - The sender had no name, and written in the message was just one thing:
-- 
+} 
+{
 - "Will you decide?"
-- 
+} 
+{
 - Attached to the email was a shady file.
 - "What... is this --"
 - He opened the file.
-- 
+} 
+{
 - D. I. O. system, compile, link...
-- 
+} 
+{
 - Abruptly, the woman returned, having bought a drink.
 - It was then --
-- 
+} 
+{
 - Flash!
-- 
+} 
+{
 - Several minutes earlier.
 - Atop a screen surveilling the Tokyo airspace, countless dots of light suddenly - lit up.
 - "Why didn't they show up till now?!"
 - The bellows blended together. The self defence force was in shambles.
-- 
+} 
+{
 - December 24, 201X --
 - The flames of nuclear war burned Tokyo to the ground. In an instant, the - capital was brought to a halt, countless lives mercilessly taken.
 - With the crumbling of infrastructure came a giant electromagnetic pulse, - destroying the electrical grid, and wiping out what remained of Tokyo's - information systems.
 - The young pair was no exception. In those final moments, as those - out-stretched hands were on the verge of touching, everything was swallowed up - by light.
-- 
+} 
+{
 - As if to loudly herald the end of Man.
 - Surrounded by debris, those who narrowly survived watch on to see the shadows - of countless monsters within the flame- s.
 }
