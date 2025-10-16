@@ -1,6 +1,7 @@
 import Block from "@/app/components/Block"
+import { BlockListProps } from "@/app/util/types"
 
-export default function BlocksList({blocks, mapper}) {
+export default function BlocksList({blocks, mapper}: BlockListProps) {
     let styling = "";
     if (mapper == "about-skills") {
         styling = "border rounded-md dark:border-white border-black justify-between flex flex-col p-3 w-1/3 min-w-60 center-content"
