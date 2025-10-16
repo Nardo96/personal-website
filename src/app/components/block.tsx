@@ -1,26 +1,10 @@
-import { AboutJobsMap, AboutSkillsMap, AboutEducationMap, TranslationsMap, ProjectsMap, ProjectsSmallMap } from "@/app/util/Mappers"
 import BlockLineHelper from "@/app/components/BlockLineHelper"
+import { BlockProps } from "../util/types"
+import { MapperRegistry } from "@/app/util/Mappers";
 
-export default function Block({block, mapperString}) {
-    let mapper
-    if (mapperString == 'about-jobs') {
-        mapper = AboutJobsMap
-    }
-    else if (mapperString == "about-skills") {
-        mapper = AboutSkillsMap
-    }
-    else if (mapperString == "about-education") {
-        mapper = AboutEducationMap
-    }
-    else if (mapperString == "translations") {
-        mapper = TranslationsMap
-    }
-    else if (mapperString == "projects-small") {
-        mapper = ProjectsSmallMap
-    }
-    else {
-        mapper = ProjectsMap
-    }
+
+export default function Block({block, mapperString}: BlockProps) {
+    const mapper = MapperRegistry[mapperString] ?? MapperRegistry["projects"];
 
     return (
         <>

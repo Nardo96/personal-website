@@ -34,3 +34,12 @@ export const ProjectsMap = new Map([
 export const ProjectsSmallMap = new Map([
     ['$', 'Image'],
 ])
+
+export const MapperRegistry: Record<string, Map<string, string>> = {
+  "about-jobs": AboutJobsMap,
+  "about-skills": AboutSkillsMap,
+  "about-education": AboutEducationMap,
+  "translations": TranslationsMap,
+  "projects-small": ProjectsSmallMap,
+  "projects": ProjectsMap,
+};
