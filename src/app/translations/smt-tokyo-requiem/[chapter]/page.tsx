@@ -1,5 +1,5 @@
 import {chapter_filename_list_smttr, chapter_fileparse_list_smttr} from "@/app/util/ParseFile"
-import BlocksList from "@/app/components/BlocksList"
+import BlockList from "@/app/components/BlockList"
 import Link from "next/link"
 
 export async function generateStaticParams() {
@@ -22,7 +22,7 @@ export default async function Page({
     return (
         <div className="items-center justify-items-center min-h-screen pb-20 gap-16 p-16 font-[family-name:var(--font-geist-sans)] flex flex-col dark:bg-gray-800 dark:text-white">
             <div className="w-7/10 flex flex-col content-center gap-8">
-                <BlocksList blocks={blocks} mapper="translations"/>
+                <BlockList blocks={blocks} mapper="translations"/>
             </div>
             <div className="flex flex-row justify-center">
                 <Link href={index > 0 ? prevFilePath.split(".")[0] : "."}>
