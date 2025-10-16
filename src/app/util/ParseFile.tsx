@@ -1,3 +1,5 @@
+import { BlockList, Block} from "@/app/util/types";
+
 export const blocks_about_jobs = ParseFile('src/resources/about/jobs.txt')
 export const blocks_about_education = ParseFile('src/resources/about/education.txt')
 export const blocks_about_skills = ParseFile('src/resources/about/skills.txt') 
@@ -6,38 +8,38 @@ export const blocks_projects_small = ParseFile('src/resources/projects/projects-
 export const chapter_filename_list_smttr = GetFileNames('src/resources/translations/smt-tokyo-requiem')
 export const  chapter_fileparse_list_smttr = parseFiles('src/resources/translations/smt-tokyo-requiem/', chapter_filename_list_smttr)
 
-// Returns a list of blocks, each block is a list of lines, each line is a list of [delimiter, text]
-export function ParseFile(filepath: string) {
+
+export function ParseFile(filepath: string): BlockList {
     try {
-        const fs = require('fs')
-        const data = fs.readFileSync(filepath, 'utf8')
-        const lines = data.split("\r\n")
-        let blocks = []
-        let block = []
+        const fs = require('fs');
+        const data = fs.readFileSync(filepath, 'utf8');
+        const lines = data.split("\r\n");
+        let blocks: BlockList = [];
+        let block: Block = [];
 
         for (const line of lines) {
-            var index = 0
-            // The case of a blank, separator new line between blocks
+            var index = 0;
             if (line.length == 0) {
-                continue
+                continue;
             }
             if (line[index] == "{" || line[index] == "}") {
                 if (block.length != 0) {
-                    blocks.push(block)  
+                    blocks.push(block);
                 }
-                block = []
-                continue
+                block = [];
+                continue;
             }
             while (line[index] != " " && index < line.length) {
-                index += 1
+                index += 1;
             }
-            const delim = line.slice(0, index)
-            const remain = line.slice(index+1)
-            block.push([delim, remain])
+            const delim = line.slice(0, index);
+            const remain = line.slice(index + 1);
+            block.push([delim, remain]);
         }
-        return blocks
+        return blocks;
     } catch (err) {
-        console.error(err)
+        console.error(err);
+        return [];
     }
 }
 

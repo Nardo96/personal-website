@@ -1,7 +1,8 @@
 import {TranslationsMap, ProjectsMap} from "@/app/util/Mappers"
+import { BlockLineHelperProps } from "@/app/util/types"
 
 
-export default function BlockLineHelper({line, mapper}) {
+export default function BlockLineHelper({line, mapper}: BlockLineHelperProps) {
     let pageStyling = ""
     if (mapper === ProjectsMap) {
         pageStyling = "text-center"
