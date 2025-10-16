@@ -1,4 +1,4 @@
-import Block from "@/app/components/block"
+import Block from "@/app/components/Block"
 
 export default function BlocksList({blocks, mapper}) {
     let styling = "";

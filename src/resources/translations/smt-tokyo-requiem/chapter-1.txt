@@ -3,7 +3,8 @@
 - (Protagonist Name):
 - "...nngh.."
 } 
-{- Opening my eyes, I awoke 
+{
+- Opening my eyes, I awoke 
 - on an unfamiliar bed.
 } 
 {

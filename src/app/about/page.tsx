@@ -1,5 +1,5 @@
-import {blocks_about_jobs, blocks_about_education, blocks_about_skills} from '@/app/util/parse-file'
-import BlocksList from '@/app/components/blocks-list'
+import {blocks_about_jobs, blocks_about_education, blocks_about_skills} from '@/app/util/ParseFile'
+import BlocksList from '@/app/components/BlocksList'
 
 
 export default function AboutPage() {

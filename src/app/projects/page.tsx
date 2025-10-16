@@ -1,5 +1,5 @@
-import {blocks_projects, blocks_projects_small} from '@/app/util/parse-file'
-import BlocksList from '@/app/components/blocks-list'
+import {blocks_projects, blocks_projects_small} from '@/app/util/ParseFile'
+import BlocksList from '@/app/components/BlocksList'
 
 
 export default function ProjectsPage() {

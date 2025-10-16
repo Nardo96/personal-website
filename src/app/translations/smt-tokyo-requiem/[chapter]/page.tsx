@@ -1,5 +1,5 @@
-import {chapter_filename_list_smttr, chapter_fileparse_list_smttr} from "@/app/util/parse-file"
-import BlocksList from "@/app/components/blocks-list"
+import {chapter_filename_list_smttr, chapter_fileparse_list_smttr} from "@/app/util/ParseFile"
+import BlocksList from "@/app/components/BlocksList"
 import Link from "next/link"
 
 export async function generateStaticParams() {

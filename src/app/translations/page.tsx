@@ -1,4 +1,4 @@
-import {blocks_translations} from '@/app/util/parse-file'
+import {blocks_translations} from '@/app/util/ParseFile'
 
 
 export default function TranslationsPage() {

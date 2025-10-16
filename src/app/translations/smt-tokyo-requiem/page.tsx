@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { chapter_filename_list_smttr} from "@/app/util/parse-file"
+import { chapter_filename_list_smttr} from "@/app/util/ParseFile"
 import Link from "next/link"
 
 export default function BookPage() {
